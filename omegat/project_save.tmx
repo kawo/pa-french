@@ -11446,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_advancepayment            *X Advance payment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202004Z" creationid="Happy_Killing" creationdate="20140611T202004Z">
+        <seg>report_grants_advancepayment            *X Paiement anticipé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_bankloan                  Bank Loan</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194253Z" creationid="kawo" creationdate="20140419T194253Z">
@@ -11494,6 +11502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_completionbonus           *X Completion bonus</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202041Z" creationid="Happy_Killing" creationdate="20140611T202041Z">
+        <seg>report_grants_completionbonus           *X Bonus si complété</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_creditrating              Your Credit Rating: *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201442Z" creationid="Happy_Killing" creationdate="20140611T201442Z">
@@ -11506,6 +11522,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201506Z" creationid="Happy_Killing" creationdate="20140611T201506Z">
         <seg>report_grants_inprogress_tt             (PROGRESSION)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_locked_tt                 (LOCKED)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201831Z" creationid="Happy_Killing" creationdate="20140611T201831Z">
+        <seg>report_grants_locked_tt                 (BLOQUÉ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11530,6 +11554,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194821Z" creationid="kawo" creationdate="20140419T194821Z">
         <seg>report_grants_max3                      Vous ne pouvez contracter plus de trois prêts à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_prereqs                   [Pre-requisites]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202102Z" creationid="Happy_Killing" creationdate="20140611T202102Z">
+        <seg>report_grants_prereqs                   [Pré-requis]</seg>
       </tuv>
     </tu>
     <tu>
