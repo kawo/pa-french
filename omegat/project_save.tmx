@@ -5110,6 +5110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>contraband_key_demand                   Demand</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213931Z" creationid="Happy_Killing" creationdate="20140611T213931Z">
+        <seg>contraband_key_demand                   Demande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contraband_key_supply                   Supply</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T214026Z" creationid="Happy_Killing" creationdate="20140611T214000Z">
+        <seg>contraband_key_supply                   Recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>contraband_luxuries                     Luxuries</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213702Z" creationid="Happy_Killing" creationdate="20140611T213702Z">
