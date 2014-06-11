@@ -6446,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>interface_action_sack                           Sack</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T183856Z" creationid="Happy_Killing" creationdate="20140611T183856Z">
+        <seg>interface_action_sack                           Licencier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>interface_action_search                         Search</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140611T010728Z" creationid="kawo" creationdate="20140611T010728Z">
