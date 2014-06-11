@@ -10974,6 +10974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_reform_successcount            Completed *X times</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190907Z" creationid="Happy_Killing" creationdate="20140611T190907Z">
+        <seg>rapsheet_reform_successcount            Complété *X fois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_reformhistory                  Reform Program History</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190816Z" creationid="Happy_Killing" creationdate="20140611T190816Z">
