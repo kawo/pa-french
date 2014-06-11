@@ -6454,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>interface_action_searchcell                     Search Cell</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140611T172838Z" creationid="kawo" creationdate="20140611T172838Z">
+        <seg>interface_action_searchcell                     Fouiller cellule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>interface_confirmlandbuy                        Are you sure you wish to buy this plot of land for $*X?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T134630Z" creationid="kawo" creationdate="20140419T134630Z">
