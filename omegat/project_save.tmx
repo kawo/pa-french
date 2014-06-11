@@ -2864,8 +2864,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_lockdown                   Lockdown</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T141205Z" creationid="kawo" creationdate="20140419T140749Z">
-        <seg>buildtoolbar_lockdown                   Verrouillage</seg>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192657Z" creationid="kawo" creationdate="20140419T140749Z">
+        <seg>buildtoolbar_lockdown                   Isolement</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,10 +10926,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_grading_penalties              *X penalties :</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192516Z" creationid="Happy_Killing" creationdate="20140611T192516Z">
+        <seg>rapsheet_grading_penalties              *X penalités :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_grading_punishment             Punishment</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192328Z" creationid="Happy_Killing" creationdate="20140611T192328Z">
         <seg>rapsheet_grading_punishment             Sanction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_grading_reform                 Reform</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192459Z" creationid="Happy_Killing" creationdate="20140611T192459Z">
+        <seg>rapsheet_grading_reform                 Changement</seg>
       </tuv>
     </tu>
     <tu>
