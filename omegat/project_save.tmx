@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you should somehow end up in prison yourself, this is the prisoner that will represent you.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190255Z" creationid="Happy_Killing" creationdate="20140611T190255Z">
+        <seg>Si vous finissez d'une manière ou d'une autre en prison, c'est le prisonnier qui vous représentera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>In return for their investment, your shareholders will take their fraction of the total sale price when you sell your prison.\n\nEg if you sell 30% shares in your prison, you will only receive 70% of the final sale value.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T195942Z" creationid="kawo" creationdate="20140419T195942Z">
@@ -4626,6 +4634,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T174846Z" creationid="kawo" creationdate="20140419T174846Z">
         <seg>codex_save                              Sauvegarder une prison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_select                            Select</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190326Z" creationid="Happy_Killing" creationdate="20140611T190326Z">
+        <seg>codex_select                            Sélectionner</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,6 +10918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_mood                           Mood</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190550Z" creationid="Happy_Killing" creationdate="20140611T190550Z">
+        <seg>rapsheet_mood                           Humeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_notguilty						Not guilty</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182948Z" creationid="kawo" creationdate="20140419T182948Z">
@@ -10954,6 +10978,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183241Z" creationid="kawo" creationdate="20140419T183205Z">
         <seg>rapsheet_time							*Y ans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_timeinside                     *X days in your prison</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190524Z" creationid="Happy_Killing" creationdate="20140611T190524Z">
+        <seg>rapsheet_timeinside                     *X jours dans votre prison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_timeinside_hours               *X hours in your prison</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190535Z" creationid="Happy_Killing" creationdate="20140611T190535Z">
+        <seg>rapsheet_timeinside_hours               *X heures dans votre prison</seg>
       </tuv>
     </tu>
     <tu>
