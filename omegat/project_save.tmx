@@ -10918,6 +10918,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_grading_health                 Health</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192345Z" creationid="Happy_Killing" creationdate="20140611T192345Z">
+        <seg>rapsheet_grading_health                 Santé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_grading_punishment             Punishment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192328Z" creationid="Happy_Killing" creationdate="20140611T192328Z">
+        <seg>rapsheet_grading_punishment             Sanction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_grading_security               Security</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192352Z" creationid="Happy_Killing" creationdate="20140611T192352Z">
+        <seg>rapsheet_grading_security               Securité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_guilty							Guilty</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182943Z" creationid="kawo" creationdate="20140419T182943Z">
@@ -10966,10 +10990,18 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_reform_failcount               Failed *X times</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192246Z" creationid="Happy_Killing" creationdate="20140611T192246Z">
+        <seg>rapsheet_reform_failcount               Ajourné *X fois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_reform_failed                  Failed</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192105Z" creationid="Happy_Killing" creationdate="20140611T192105Z">
-        <seg>rapsheet_reform_failed                  Raté</seg>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192301Z" creationid="Happy_Killing" creationdate="20140611T192105Z">
+        <seg>rapsheet_reform_failed                  Ajourné</seg>
       </tuv>
     </tu>
     <tu>
