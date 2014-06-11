@@ -10966,6 +10966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_reform_failed                  Failed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192105Z" creationid="Happy_Killing" creationdate="20140611T192105Z">
+        <seg>rapsheet_reform_failed                  Raté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_reform_success                 Success</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190827Z" creationid="Happy_Killing" creationdate="20140611T190827Z">
