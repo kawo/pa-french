@@ -1,14 +1,14 @@
-04/06/14 15:12
+11/06/14 21:31
 Données du projet
 
                            	Segments	 Mots	Caractères (sans espaces)	Caractères (avec espaces)	Nombre de fichiers	
-Total :                    	    1941	10608	                    90350	                   124557	                 1	
-Restants :                 	     274	 1204	                    10790	                    16285	                 1	
-Segments uniques :         	    1858	10538	                    85335	                   118905	                 1	
-Segments uniques restants :	     274	 1204	                    10790	                    16285	                 1	
+Total :                    	    1940	10608	                    90347	                   124554	                 1	
+Restants :                 	     272	 1199	                    10724	                    16172	                 1	
+Segments uniques :         	    1857	10538	                    85332	                   118902	                 1	
+Segments uniques restants :	     272	 1199	                    10724	                    16172	                 1	
 
 
 Statistiques par fichiers :
 
 Nom du fichier   	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
-base-language.txt	          1941	              274	            1858	                      274	     10608	         1204	       10538	                 1204	                          90350	                             10790	                            85335	                                     10790	                         124557	                             16285	                           118905	                                     16285	
+base-language.txt	          1940	              272	            1857	                      272	     10608	         1199	       10538	                 1199	                          90347	                             10724	                            85332	                                     10724	                         124554	                             16172	                           118902	                                     16172	
