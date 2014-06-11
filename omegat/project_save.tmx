@@ -11486,6 +11486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_creditrating              Your Credit Rating: *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201442Z" creationid="Happy_Killing" creationdate="20140611T201442Z">
+        <seg>report_grants_creditrating              Votre cote de crédit: *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_max1                      You can accept only one grant at a time.\nUse your accountant to raise this limit.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194724Z" creationid="kawo" creationdate="20140419T194724Z">
