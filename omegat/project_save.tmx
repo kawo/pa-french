@@ -6406,6 +6406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finances_category_noincident            Days without incident</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205847Z" creationid="Happy_Killing" creationdate="20140611T205847Z">
+        <seg>finances_category_noincident            Jours sans incident</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finances_category_reformprogs           Reform Programs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205817Z" creationid="Happy_Killing" creationdate="20140611T205817Z">
+        <seg>finances_category_reformprogs           Réforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finances_category_staff                 Staff Wages</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205602Z" creationid="Happy_Killing" creationdate="20140611T205602Z">
