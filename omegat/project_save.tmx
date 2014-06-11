@@ -13038,6 +13038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>score_tooltip_health                    A record of the prisoners health and wellbeing during his stay in your prison.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T211324Z" creationid="Happy_Killing" creationdate="20140611T211324Z">
+        <seg>score_tooltip_health                   Un enregistrement de la santé et le bien-être des prisonniers lors de son séjour dans votre prison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>score_tooltip_punishment                This is a grading of how well the prisoner has been punished for his crimes, as perceived by the public.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T191908Z" creationid="kawo" creationdate="20140429T191908Z">
