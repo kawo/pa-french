@@ -13510,6 +13510,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>valuation_ownership                     You own *X% of your prison</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202533Z" creationid="Happy_Killing" creationdate="20140611T202533Z">
+        <seg>valuation_ownership                     Vous tenez *X% de votre prison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>valuation_saleprice                     Sale Price: *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202604Z" creationid="Happy_Killing" creationdate="20140611T202604Z">
+        <seg>valuation_saleprice                     Prix de Vente: *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>valuation_sell                          SELL</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T195229Z" creationid="kawo" creationdate="20140419T195229Z">
@@ -13586,6 +13602,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194936Z" creationid="kawo" creationdate="20140419T194936Z">
         <seg>valuation_stock                         Stock et matériaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>valuation_title                         =[VALUATION]=</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202612Z" creationid="Happy_Killing" creationdate="20140611T202612Z">
+        <seg>valuation_title                         =[ÉVALUATION]=</seg>
       </tuv>
     </tu>
     <tu>
