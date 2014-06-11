@@ -6342,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finances_category_corptax               Corporation Taxes</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T210730Z" creationid="Happy_Killing" creationdate="20140611T210730Z">
+        <seg>finances_category_corptax               Taxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finances_category_electricity           Electricity</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205624Z" creationid="Happy_Killing" creationdate="20140611T205624Z">
@@ -11930,6 +11938,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233916Z" creationid="kawo" creationdate="20140419T233916Z">
         <seg>reports_decreaseloan                    Diminue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reports_foodtitle                       Nutritional Policy</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T210737Z" creationid="Happy_Killing" creationdate="20140611T210737Z">
+        <seg>reports_foodtitle                       Politique nutritionnelle</seg>
       </tuv>
     </tu>
     <tu>
