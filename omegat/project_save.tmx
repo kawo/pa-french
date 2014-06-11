@@ -12182,6 +12182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>researchtooltip_policy                  Unlocks the Policy Report, allowing you to increase and decrease the punishments for all types of misconduct, as well as automatically triggering searches of the misbehaving prisoner and his cell.\n\nAlso allows you to control the nutritional policy, changing the quantity and variety of food served to prisoners</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194315Z" creationid="Happy_Killing" creationdate="20140611T194315Z">
+        <seg>researchtooltip_policy                  Déverrouille le Rapport sur la politique, vous permettant d'augmenter et de diminuer les peines pour tous les types de faute, ainsi que le déclenchement des fouilles des prisonniers et de leur cellules.\n\nVous pouvez également contrôler la politique nutritionnelle, modification de la quantité et de la variété de la nourriture servie aux prisonniers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>researchtooltip_prisonlabour            Allows you to put your prisoners to work around your prison (Cooking, Cleaning etc), saving you on staff wages, earning you money, and teaching your prisoners new skills at the same time.\n\nAlso Unlocks the Workshop and the Laundry.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T190930Z" creationid="kawo" creationdate="20140419T190930Z">
@@ -12510,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>roomrequirement_passed                  [PASSED]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194429Z" creationid="Happy_Killing" creationdate="20140611T194429Z">
+        <seg>roomrequirement_passed                  [VALIDÉ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>roomrequirement_recommended             Recommended:</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T193435Z" creationid="kawo" creationdate="20140419T193435Z">
@@ -12538,6 +12554,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T193537Z" creationid="kawo" creationdate="20140419T193509Z">
         <seg>roomrequirement_solidground             Fondations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>roomrequirement_title                   =[Room Requirements]=</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194413Z" creationid="Happy_Killing" creationdate="20140611T194413Z">
+        <seg>roomrequirement_title                   =[Exigences de la salle]=</seg>
       </tuv>
     </tu>
     <tu>
