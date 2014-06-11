@@ -6422,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>interface_action_doormodelockedopen             Door Mode: Locked Open</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184734Z" creationid="Happy_Killing" creationdate="20140611T184734Z">
+        <seg>interface_action_doormodelockedopen             Porte: Ouverte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>interface_action_doormodelockedshut             Door Mode: Locked Shut</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184644Z" creationid="Happy_Killing" creationdate="20140611T184644Z">
@@ -6490,6 +6498,30 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T183715Z" creationid="Happy_Killing" creationdate="20140611T183715Z">
         <seg>interface_action_searchcellblock                Fouiller cellules bloc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_action_sellobject                     Sell Object</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184844Z" creationid="Happy_Killing" creationdate="20140611T184844Z">
+        <seg>interface_action_sellobject                     Vendre Objet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_action_switchoff                      Switch Off</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184831Z" creationid="Happy_Killing" creationdate="20140611T184831Z">
+        <seg>interface_action_switchoff                      Désactiver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_action_switchon                       Switch On</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184813Z" creationid="Happy_Killing" creationdate="20140611T184813Z">
+        <seg>interface_action_switchon                       Activer</seg>
       </tuv>
     </tu>
     <tu>
