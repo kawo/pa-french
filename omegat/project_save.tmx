@@ -10806,6 +10806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_activity                       Activity</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190558Z" creationid="Happy_Killing" creationdate="20140611T190558Z">
+        <seg>rapsheet_activity                       Activité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_age							Age:</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182653Z" creationid="kawo" creationdate="20140419T182653Z">
@@ -10878,6 +10886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_condition                      Condition</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190629Z" creationid="Happy_Killing" creationdate="20140611T190629Z">
+        <seg>rapsheet_condition                      Situation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_conviction_text				*C - *Y years</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183233Z" creationid="kawo" creationdate="20140419T182753Z">
@@ -10930,6 +10946,38 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182948Z" creationid="kawo" creationdate="20140419T182948Z">
         <seg>rapsheet_notguilty						Non coupable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_passchance                     Pass Chance</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190735Z" creationid="Happy_Killing" creationdate="20140611T190735Z">
+        <seg>rapsheet_passchance                     Taux réussite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_program                        Program</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190644Z" creationid="Happy_Killing" creationdate="20140611T190644Z">
+        <seg>rapsheet_program                        Programme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_reform_success                 Success</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190827Z" creationid="Happy_Killing" creationdate="20140611T190827Z">
+        <seg>rapsheet_reform_success                 Réussite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_reformhistory                  Reform Program History</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190816Z" creationid="Happy_Killing" creationdate="20140611T190816Z">
+        <seg>rapsheet_reformhistory                  Historique des programmes</seg>
       </tuv>
     </tu>
     <tu>
