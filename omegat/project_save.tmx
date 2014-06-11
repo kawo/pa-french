@@ -11454,6 +11454,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_bankloan_amount           Current Bank Loan  *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194653Z" creationid="Happy_Killing" creationdate="20140611T194653Z">
+        <seg>report_grants_bankloan_amount           Prêt actuelle  *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_bankloan_interest         Interest *X per day</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194716Z" creationid="Happy_Killing" creationdate="20140611T194716Z">
+        <seg>report_grants_bankloan_interest         intérêt *X par jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_bankloan_max              Maximum Loan *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194727Z" creationid="Happy_Killing" creationdate="20140611T194727Z">
+        <seg>report_grants_bankloan_max              Prêt Maximum *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_bankloan_text             You can borrow a large lump sum from the bank.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194330Z" creationid="kawo" creationdate="20140419T194330Z">
@@ -12494,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>roomrequirement_failed                  [FAILED]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194551Z" creationid="Happy_Killing" creationdate="20140611T194551Z">
+        <seg>roomrequirement_failed                  [ÉCHOUÉ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>roomrequirement_indoor                  Indoors</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T193456Z" creationid="kawo" creationdate="20140419T193456Z">
@@ -13264,8 +13296,8 @@
       <tuv lang="EN-GB">
         <seg>unlock_special_officersafety            Officer Safety</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140420T190803Z" creationid="kawo" creationdate="20140419T193755Z">
-        <seg>unlock_special_officersafety            Officer Safety</seg>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194610Z" creationid="kawo" creationdate="20140419T193755Z">
+        <seg>unlock_special_officersafety            Sécurité des Agents</seg>
       </tuv>
     </tu>
     <tu>
