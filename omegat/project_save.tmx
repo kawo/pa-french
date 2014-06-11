@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>buildtoolbar_weaponsfree                Freefire</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T185202Z" creationid="Happy_Killing" creationdate="20140611T185202Z">
+        <seg>buildtoolbar_weaponsfree                Tirer à vue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>buildtoolbar_weaponsfree                Weapons Free</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T203637Z" creationid="kawo" creationdate="20140419T203637Z">
@@ -4842,6 +4850,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182131Z" creationid="kawo" creationdate="20140419T182131Z">
         <seg>codex_urltitle                          Url</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_useravatar                        This is me</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T185244Z" creationid="Happy_Killing" creationdate="20140611T185244Z">
+        <seg>codex_useravatar                        Moi</seg>
       </tuv>
     </tu>
     <tu>
