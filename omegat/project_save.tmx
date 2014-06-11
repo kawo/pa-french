@@ -11862,6 +11862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>research_movementpenalty                Movement Penalty: *X%</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193821Z" creationid="Happy_Killing" creationdate="20140611T193821Z">
+        <seg>research_movementpenalty                Mouvement de pénalité: *X%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>research_none                           None</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183849Z" creationid="kawo" creationdate="20140419T183849Z">
