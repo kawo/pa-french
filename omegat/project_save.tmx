@@ -7550,6 +7550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>job_failurecount                        Failed *X times</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203619Z" creationid="Happy_Killing" creationdate="20140611T203619Z">
+        <seg>job_failurecount                        Échoué *X fois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>job_improvecellindoor                   Clean indoor area</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200646Z" creationid="kawo" creationdate="20140419T200646Z">
@@ -10686,6 +10694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>policy_mealcost                         $*X / day</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203554Z" creationid="Happy_Killing" creationdate="20140611T203554Z">
+        <seg>policy_mealcost                         $*X / jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>policy_prisoner                         HIM</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200239Z" creationid="kawo" creationdate="20140419T200239Z">
@@ -10722,6 +10738,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200220Z" creationid="kawo" creationdate="20140419T200220Z">
         <seg>policy_title                            INCIDENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>policy_totalmealcost                    (TOTAL $*X / day)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203559Z" creationid="Happy_Killing" creationdate="20140611T203559Z">
+        <seg>policy_totalmealcost                    (TOTAL $*X / jour)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,6 +12750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>salecondition_failed                    [FAILED]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203534Z" creationid="Happy_Killing" creationdate="20140611T203534Z">
+        <seg>salecondition_failed                    [ÉCHOUÉ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>salecondition_minimumvalue              Minimum value $50,000</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200148Z" creationid="kawo" creationdate="20140419T200148Z">
@@ -12738,6 +12770,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200217Z" creationid="kawo" creationdate="20140419T200217Z">
         <seg>salecondition_minprisoners              Au moins 20 détenus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>salecondition_passed                    [PASSED]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203529Z" creationid="Happy_Killing" creationdate="20140611T203529Z">
+        <seg>salecondition_passed                    [VALIDÉ]</seg>
       </tuv>
     </tu>
     <tu>
