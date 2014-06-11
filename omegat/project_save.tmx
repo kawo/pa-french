@@ -8030,6 +8030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>misconduct_report_recovingalcoholic         Recovering alcoholic</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193506Z" creationid="Happy_Killing" creationdate="20140611T193506Z">
+        <seg>misconduct_report_recovingalcoholic         Cure de sevrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>misconduct_reporttype_complaint             Complaint</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183529Z" creationid="kawo" creationdate="20140419T183456Z">
@@ -11670,6 +11678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>research_approved                       APPROVED</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193531Z" creationid="Happy_Killing" creationdate="20140611T193531Z">
+        <seg>research_approved                       APPROUVÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>research_armoury                        Armoury</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T184426Z" creationid="kawo" creationdate="20140419T184426Z">
@@ -11722,6 +11738,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T184354Z" creationid="kawo" creationdate="20140419T184354Z">
         <seg>research_contraband                     Contrebande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>research_cost                           Cost: *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193556Z" creationid="Happy_Killing" creationdate="20140611T193556Z">
+        <seg>research_cost                           Coûte: *X</seg>
       </tuv>
     </tu>
     <tu>
@@ -11922,6 +11946,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T184541Z" creationid="kawo" creationdate="20140419T184541Z">
         <seg>research_tazersforeveryone              Taser pour tous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>research_timetounlock                   Time to unlock : *X hours</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193610Z" creationid="Happy_Killing" creationdate="20140611T193610Z">
+        <seg>research_timetounlock                   Débloque dans : *X hours</seg>
       </tuv>
     </tu>
     <tu>
