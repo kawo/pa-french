@@ -8406,6 +8406,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>needs_key_critical                      Critical</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213153Z" creationid="Happy_Killing" creationdate="20140611T213153Z">
+        <seg>needs_key_critical                      Critique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_key_high                          High</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213203Z" creationid="Happy_Killing" creationdate="20140611T213203Z">
+        <seg>needs_key_high                          Elevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_key_med                           Medium</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213209Z" creationid="Happy_Killing" creationdate="20140611T213209Z">
+        <seg>needs_key_med                           Moyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_key_satisfied                     Satisfied</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213222Z" creationid="Happy_Killing" creationdate="20140611T213222Z">
+        <seg>needs_key_satisfied                     Satisfaisent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>object_accountant                        Accountant</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T224807Z" creationid="kawo" creationdate="20140419T224807Z">
