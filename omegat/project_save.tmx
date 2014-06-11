@@ -6166,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>experiencefactor_addictions             *X active addictions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213050Z" creationid="Happy_Killing" creationdate="20140611T213050Z">
+        <seg>experiencefactor_addictions             *X toxicomane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>experiencefactor_escapeattempts         Tried to escape *X times</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T194556Z" creationid="kawo" creationdate="20140429T194556Z">
@@ -6218,6 +6226,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T194059Z" creationid="kawo" creationdate="20140429T194059Z">
         <seg>experiencefactor_fractionalinjured      *X% des détenus ne sont pas soignés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>experiencefactor_fractionalintoxicated  *X% of stay intoxicated (drugs/alchohol/withdrawal)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T212852Z" creationid="Happy_Killing" creationdate="20140611T212852Z">
+        <seg>experiencefactor_fractionalintoxicated  *X% des détenus sont resté intoxiqués (drugs/alchohol/withdrawal)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>legend_key                              Key:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213058Z" creationid="Happy_Killing" creationdate="20140611T213058Z">
+        <seg>legend_key                              Clef:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>material_brickwall                       Brick Wall</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230341Z" creationid="kawo" creationdate="20140419T230341Z">
@@ -8370,6 +8394,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201917Z" creationid="kawo" creationdate="20140419T201917Z">
         <seg>nameplate_working                       Travaille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_graphscale_title                  Prisoners:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213106Z" creationid="Happy_Killing" creationdate="20140611T213106Z">
+        <seg>needs_graphscale_title                  Prisonniers:</seg>
       </tuv>
     </tu>
     <tu>
