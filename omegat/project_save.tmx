@@ -13518,6 +13518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>valuation_profit                        Your Profit : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203132Z" creationid="Happy_Killing" creationdate="20140611T203132Z">
+        <seg>valuation_profit                        Profit : *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>valuation_saleprice                     Sale Price: *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202604Z" creationid="Happy_Killing" creationdate="20140611T202604Z">
@@ -13606,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>valuation_tenpercentprice               Price for 10% : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203118Z" creationid="Happy_Killing" creationdate="20140611T203118Z">
+        <seg>valuation_tenpercentprice               Prix pour 10% : *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>valuation_title                         =[VALUATION]=</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202612Z" creationid="Happy_Killing" creationdate="20140611T202612Z">
@@ -13618,6 +13634,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T195223Z" creationid="kawo" creationdate="20140419T195223Z">
         <seg>valuation_total                         TOTAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>valuation_totalprisonvalue              Total Prison Value : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203047Z" creationid="Happy_Killing" creationdate="20140611T203047Z">
+        <seg>valuation_totalprisonvalue              Valeur totale : *X</seg>
       </tuv>
     </tu>
     <tu>
