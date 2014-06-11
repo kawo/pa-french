@@ -6422,6 +6422,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>interface_action_doormodelockedshut             Door Mode: Locked Shut</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184644Z" creationid="Happy_Killing" creationdate="20140611T184644Z">
+        <seg>interface_action_doormodelockedshut             Porte: Fermer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_action_doormodenormal                 Door Mode: Normal</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184502Z" creationid="Happy_Killing" creationdate="20140611T184502Z">
+        <seg>interface_action_doormodenormal                 Porte: Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>interface_action_dump                           Dump</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140602T111856Z" creationid="kawo" creationdate="20140602T111856Z">
