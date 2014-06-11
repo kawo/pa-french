@@ -6350,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finances_category_exports               Exports (yesterday)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T210634Z" creationid="Happy_Killing" creationdate="20140611T210634Z">
+        <seg>finances_category_exports               Exportations (yesterday)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finances_category_federalgrant          Federal Grant</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T204219Z" creationid="Happy_Killing" creationdate="20140611T204219Z">
