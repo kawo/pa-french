@@ -5110,6 +5110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>contraband_luxuries                     Luxuries</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213702Z" creationid="Happy_Killing" creationdate="20140611T213702Z">
+        <seg>contraband_luxuries                     Luxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contraband_narcotics                    Narcotics</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213626Z" creationid="Happy_Killing" creationdate="20140611T213626Z">
+        <seg>contraband_narcotics                    Stupéfiants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>contraband_owner                        Owner: *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233306Z" creationid="kawo" creationdate="20140419T233306Z">
@@ -5146,6 +5162,30 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233407Z" creationid="kawo" creationdate="20140419T233407Z">
         <seg>contraband_stolenfrom                   Volé à *X il y a *Y heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contraband_supplyanddemand              Supply and Demand</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213614Z" creationid="Happy_Killing" creationdate="20140611T213614Z">
+        <seg>contraband_supplyanddemand              L'offre et la demande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contraband_tools                        Tools</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213648Z" creationid="Happy_Killing" creationdate="20140611T213648Z">
+        <seg>contraband_tools                        Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contraband_weapons                      Weapons</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213643Z" creationid="Happy_Killing" creationdate="20140611T213643Z">
+        <seg>contraband_weapons                      Armes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8402,6 +8442,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213106Z" creationid="Happy_Killing" creationdate="20140611T213106Z">
         <seg>needs_graphscale_title                  Prisonniers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_key_active                        Active</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213510Z" creationid="Happy_Killing" creationdate="20140611T213510Z">
+        <seg>needs_key_active                        Actif</seg>
       </tuv>
     </tu>
     <tu>
