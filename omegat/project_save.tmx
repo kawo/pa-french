@@ -11494,6 +11494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_completed                 COMPLETED</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202129Z" creationid="Happy_Killing" creationdate="20140611T202129Z">
+        <seg>report_grants_completed                 COMPLÉTÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_completed_tt              (COMPLETED)</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201532Z" creationid="Happy_Killing" creationdate="20140611T201532Z">
@@ -11518,10 +11526,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>report_grants_hidden                    (*X more hidden)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202318Z" creationid="Happy_Killing" creationdate="20140611T202318Z">
+        <seg>report_grants_hidden                    (*X supplémentaire caché)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_inprogress                In Progress</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202309Z" creationid="Happy_Killing" creationdate="20140611T202309Z">
+        <seg>report_grants_inprogress                En cours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_grants_inprogress_tt             (IN PROGESS)</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201506Z" creationid="Happy_Killing" creationdate="20140611T201506Z">
         <seg>report_grants_inprogress_tt             (PROGRESSION)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_locked                    Locked</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202157Z" creationid="Happy_Killing" creationdate="20140611T202157Z">
+        <seg>report_grants_locked                    Verrouillé</seg>
       </tuv>
     </tu>
     <tu>
@@ -11554,6 +11586,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194821Z" creationid="kawo" creationdate="20140419T194821Z">
         <seg>report_grants_max3                      Vous ne pouvez contracter plus de trois prêts à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_grants_objectives                [Objectives]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202116Z" creationid="Happy_Killing" creationdate="20140611T202116Z">
+        <seg>report_grants_objectives                [Objectifs]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11634,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194143Z" creationid="kawo" creationdate="20140419T194143Z">
         <seg>report_prisoners                        Détenus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>report_prisoners_title                  Prisoners *X (Max *M)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202336Z" creationid="Happy_Killing" creationdate="20140611T202336Z">
+        <seg>report_prisoners_title                  Prisonniers *X (Max *M)</seg>
       </tuv>
     </tu>
     <tu>
