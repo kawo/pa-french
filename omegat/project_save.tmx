@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Psychology ???)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181824Z" creationid="Happy_Killing" creationdate="20140613T181824Z">
+        <seg>Psychologie ???)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Put down this riot now, or the government will step in and retake the prison by force.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T190251Z" creationid="kawo" creationdate="20140429T190251Z">
@@ -8486,6 +8494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>need_name_alcohol                       Alcohol</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181804Z" creationid="Happy_Killing" creationdate="20140613T181804Z">
+        <seg>need_name_alcohol                       Alcool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>need_name_bladder                       Bladder</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181340Z" creationid="Happy_Killing" creationdate="20140613T181340Z">
@@ -8502,6 +8518,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>need_name_clothing                      Clothing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181743Z" creationid="Happy_Killing" creationdate="20140613T181743Z">
+        <seg>need_name_clothing                      Vêtements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_comfort                       Comfort</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181705Z" creationid="Happy_Killing" creationdate="20140613T181705Z">
+        <seg>need_name_comfort                       Confort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_drugs                         Drugs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181752Z" creationid="Happy_Killing" creationdate="20140613T181752Z">
+        <seg>need_name_drugs                         Droges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>need_name_exercise                      Exercise</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181524Z" creationid="Happy_Killing" creationdate="20140613T181524Z">
@@ -8510,10 +8550,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>need_name_family                        Family</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181536Z" creationid="Happy_Killing" creationdate="20140613T181536Z">
+        <seg>need_name_family                        Famille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>need_name_food                          Food</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181456Z" creationid="Happy_Killing" creationdate="20140613T181456Z">
         <seg>need_name_food                          Faim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_freedom                       Freedom</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181727Z" creationid="Happy_Killing" creationdate="20140613T181727Z">
+        <seg>need_name_freedom                       Liberté</seg>
       </tuv>
     </tu>
     <tu>
@@ -8530,6 +8586,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181247Z" creationid="Happy_Killing" creationdate="20140613T181247Z">
         <seg>need_name_nothing                       Rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_privacy                       Privacy</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181719Z" creationid="Happy_Killing" creationdate="20140613T181719Z">
+        <seg>need_name_privacy                       Vie Privé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_recreation                    Recreation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181651Z" creationid="Happy_Killing" creationdate="20140613T181550Z">
+        <seg>need_name_recreation                        Récréation</seg>
       </tuv>
     </tu>
     <tu>
