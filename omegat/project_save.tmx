@@ -11822,6 +11822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reformprogram_methadone                 Methadone Program</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182322Z" creationid="Happy_Killing" creationdate="20140613T182322Z">
+        <seg>reformprogram_methadone                 Traitement Methadone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reformprogram_therapy                   Behavioural Therapy</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140420T194340Z" creationid="kawo" creationdate="20140419T231555Z">
