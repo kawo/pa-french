@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Each treatment helps the prisoner with their addiction need, and completing the course removes the addiction all together.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182633Z" creationid="Happy_Killing" creationdate="20140613T182633Z">
+        <seg>Chaque traitement aide le prisonnier avec leur besoin de dépendance, et la fin du cours les dépendances se suppriment tous ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Ensure this doesn't become a problem.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T210157Z" creationid="kawo" creationdate="20140419T210157Z">
@@ -11826,6 +11834,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182322Z" creationid="Happy_Killing" creationdate="20140613T182322Z">
         <seg>reformprogram_methadone                 Traitement Methadone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reformprogram_methadone_text            A course of 5 methadone treatments, used to combat a prisoner's addiction to narcotics.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182506Z" creationid="Happy_Killing" creationdate="20140613T182506Z">
+        <seg>reformprogram_methadone_text            Une suite de 5 traitement à la methadone, utilisé pour combatre l'addiction aux drogues des prisonniers.</seg>
       </tuv>
     </tu>
     <tu>
