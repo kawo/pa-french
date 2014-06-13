@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Helps reduce the desire for alcohol.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183021Z" creationid="Happy_Killing" creationdate="20140613T183021Z">
+        <seg>Aide a réduire l'envie d'alcool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Hire him from the Staff toolbar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T184803Z" creationid="kawo" creationdate="20140419T184803Z">
@@ -11770,6 +11778,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182119Z" creationid="Happy_Killing" creationdate="20140613T182119Z">
         <seg>reformprogram_alcoholicsmeeting         Alcooliques Anonymes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reformprogram_alcoholicsmeeting_text    A group therapy meeting for alcoholics.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182915Z" creationid="Happy_Killing" creationdate="20140613T182915Z">
+        <seg>reformprogram_alcoholicsmeeting_text    Thérapies de groupe pour les alcooliques.</seg>
       </tuv>
     </tu>
     <tu>
