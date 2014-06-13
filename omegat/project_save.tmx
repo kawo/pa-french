@@ -8430,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>nameplate_overdose                      OVERDOSED</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181852Z" creationid="Happy_Killing" creationdate="20140613T181852Z">
+        <seg>nameplate_overdose                      OVERDOSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>nameplate_patrolling                    Patrolling</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201955Z" creationid="kawo" creationdate="20140419T201955Z">
@@ -8666,6 +8674,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213222Z" creationid="Happy_Killing" creationdate="20140611T213222Z">
         <seg>needs_key_satisfied                     Satisfaisent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_title                             =[Needs]=</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181846Z" creationid="Happy_Killing" creationdate="20140613T181846Z">
+        <seg>needs_title                             =[Besoins]=</seg>
       </tuv>
     </tu>
     <tu>
@@ -11014,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>objective_intake_categories             Categories:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181859Z" creationid="Happy_Killing" creationdate="20140613T181859Z">
+        <seg>objective_intake_categories             Catégories:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>objective_intake_closed                 Your prison is closed to new inmates</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T202226Z" creationid="kawo" creationdate="20140419T202226Z">
@@ -11730,6 +11754,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140420T194545Z" creationid="kawo" creationdate="20140419T232609Z">
         <seg>reformerror_unscheduled                 NON PLANNIFIÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reformprogram_alcoholicsmeeting         Alcoholics Anonymous</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T182119Z" creationid="Happy_Killing" creationdate="20140613T182119Z">
+        <seg>reformprogram_alcoholicsmeeting         Alcooliques Anonymes</seg>
       </tuv>
     </tu>
     <tu>
