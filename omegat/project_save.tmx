@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>*Y passed (*P%)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183501Z" creationid="Happy_Killing" creationdate="20140613T183501Z">
+        <seg>*Y on réussi (*P%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>A teacher once, would you believe.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140420T162744Z" creationid="kawo" creationdate="20140420T162744Z">
@@ -11758,6 +11766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_costpersession                   *X per session</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183607Z" creationid="Happy_Killing" creationdate="20140613T183607Z">
+        <seg>reform_costpersession                   *X par session</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_interested                       *X interested</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183155Z" creationid="Happy_Killing" creationdate="20140613T183155Z">
@@ -11774,10 +11790,42 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_locked                           LOCKED</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183512Z" creationid="Happy_Killing" creationdate="20140613T183512Z">
+        <seg>reform_locked                           FERME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_paused                   paused</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183648Z" creationid="Happy_Killing" creationdate="20140613T183648Z">
+        <seg>reform_program_paused                   en pause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_starting                 starting</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183629Z" creationid="Happy_Killing" creationdate="20140613T183629Z">
+        <seg>reform_program_starting                 lancement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_queued                           *X in queue</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183238Z" creationid="Happy_Killing" creationdate="20140613T183238Z">
         <seg>reform_queued                           *X en file d'attente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_start                            START</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183559Z" creationid="Happy_Killing" creationdate="20140613T183559Z">
+        <seg>reform_start                            DEMARRER</seg>
       </tuv>
     </tu>
     <tu>
