@@ -4718,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_timelapse_interval_value          *X Game Minutes</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175821Z" creationid="Happy_Killing" creationdate="20140613T175821Z">
+        <seg>codex_timelapse_interval_value          *X Minutes de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_timelapse_quality					Quality</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T181757Z" creationid="kawo" creationdate="20140419T181757Z">
@@ -4866,6 +4874,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182133Z" creationid="kawo" creationdate="20140419T182133Z">
         <seg>codex_typetitle							Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_unlocked                          unlocked *X/*Y</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175756Z" creationid="Happy_Killing" creationdate="20140613T175756Z">
+        <seg>codex_unlocked                          débloquer *X/*Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,6 +6802,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T134630Z" creationid="kawo" creationdate="20140419T134630Z">
         <seg>interface_confirmlandbuy                         Êtes-vous certain de vouloir acheter cette parcelle pour $*X ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_contents_container                    Contents : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175730Z" creationid="Happy_Killing" creationdate="20140613T175730Z">
+        <seg>interface_contents_container                    Contenus : *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interface_contents_stack                        Contents : *X x *Y</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175739Z" creationid="Happy_Killing" creationdate="20140613T175739Z">
+        <seg>interface_contents_stack                        Contenus : *X x *Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -11414,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>rapsheet_punish                         Punish</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175858Z" creationid="Happy_Killing" creationdate="20140613T175858Z">
+        <seg>rapsheet_punish                         Sanction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>rapsheet_reform_failcount               Failed *X times</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192246Z" creationid="Happy_Killing" creationdate="20140611T192246Z">
@@ -12178,6 +12218,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193556Z" creationid="Happy_Killing" creationdate="20140611T193556Z">
         <seg>research_cost                           Coûte: *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>research_costperitem                    + *X per item.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175916Z" creationid="Happy_Killing" creationdate="20140613T175916Z">
+        <seg>research_costperitem                    + *X par item.</seg>
       </tuv>
     </tu>
     <tu>
