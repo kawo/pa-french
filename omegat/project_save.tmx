@@ -8486,6 +8486,70 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>need_name_bladder                       Bladder</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181340Z" creationid="Happy_Killing" creationdate="20140613T181340Z">
+        <seg>need_name_bladder                       Vessie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_bowels                        Bowels</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181427Z" creationid="Happy_Killing" creationdate="20140613T181427Z">
+        <seg>need_name_bowels                        Selles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_exercise                      Exercise</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181524Z" creationid="Happy_Killing" creationdate="20140613T181524Z">
+        <seg>need_name_exercise                      Sport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_food                          Food</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181456Z" creationid="Happy_Killing" creationdate="20140613T181456Z">
+        <seg>need_name_food                          Faim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_hygiene                       Hygiene</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181516Z" creationid="Happy_Killing" creationdate="20140613T181516Z">
+        <seg>need_name_hygiene                       Hygiène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_nothing                       Nothing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181247Z" creationid="Happy_Killing" creationdate="20140613T181247Z">
+        <seg>need_name_nothing                       Rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_safety                        Safety</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181504Z" creationid="Happy_Killing" creationdate="20140613T181504Z">
+        <seg>need_name_safety                        Sécurité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>need_name_sleep                         Sleep</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181444Z" creationid="Happy_Killing" creationdate="20140613T181444Z">
+        <seg>need_name_sleep                         Sommeil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>needs_graphscale_title                  Prisoners:</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213106Z" creationid="Happy_Killing" creationdate="20140611T213106Z">
@@ -13602,6 +13666,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201347Z" creationid="kawo" creationdate="20140419T201347Z">
         <seg>status_effect_none						Aucun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>status_effect_overdosed                 Overdosed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181233Z" creationid="Happy_Killing" creationdate="20140613T181233Z">
+        <seg>status_effect_overdosed                 Overdosé</seg>
       </tuv>
     </tu>
     <tu>
