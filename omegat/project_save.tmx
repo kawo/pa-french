@@ -7640,8 +7640,8 @@
       <tuv lang="EN-GB">
         <seg>interfacetopbar_tension_recentpunishments       = (DETERRENT) *X punishments have been handed down recently</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T134528Z" creationid="kawo" creationdate="20140419T134528Z">
-        <seg>interfacetopbar_tension_recentpunishments       = (DETERRENT) *X sanctions ont été mené dernièrement</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064429Z" creationid="kawo" creationdate="20140419T134528Z">
+        <seg>interfacetopbar_tension_recentpunishments       = (DETERRENT) *X sanctions ont été menées dernièrement</seg>
       </tuv>
     </tu>
     <tu>
