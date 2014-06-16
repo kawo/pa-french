@@ -6712,8 +6712,8 @@
       <tuv lang="EN-GB">
         <seg>finances_category_workmen               Workmen Wages</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205143Z" creationid="Happy_Killing" creationdate="20140611T204933Z">
-        <seg>finances_category_workmen               Salaires - ouvriers</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063133Z" creationid="Happy_Killing" creationdate="20140611T204933Z">
+        <seg>finances_category_workmen               Salaire - ouvriers</seg>
       </tuv>
     </tu>
     <tu>
