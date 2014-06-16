@@ -12542,6 +12542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>regimetooltip_freetime                  Prisoners are let out of their cell and are permitted to use any facilities around the prison.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083934Z" creationid="kawo" creationdate="20140616T083934Z">
+        <seg>regimetooltip_freetime                  Les détenus sont libre d'utiliser n'importe quel équipement à travers la prison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>regimetooltip_nothing                   Prisoners are locked in their cells.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082151Z" creationid="kawo" creationdate="20140616T082151Z">
