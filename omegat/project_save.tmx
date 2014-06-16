@@ -6736,8 +6736,8 @@
       <tuv lang="EN-GB">
         <seg>family_caption                          Family:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084739Z" creationid="kawo" creationdate="20140616T084739Z">
-        <seg>family_caption                          Famille :</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T092222Z" creationid="kawo" creationdate="20140616T084739Z">
+        <seg>family_caption                          Famille : </seg>
       </tuv>
     </tu>
     <tu>
