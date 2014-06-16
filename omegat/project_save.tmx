@@ -7496,8 +7496,8 @@
       <tuv lang="EN-GB">
         <seg>interfacetopbar_budget_moneyin					Money In: $*M /day</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T132724Z" creationid="kawo" creationdate="20140419T132724Z">
-        <seg>interfacetopbar_budget_moneyin					Revenu brut : $*M / jour</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063937Z" creationid="kawo" creationdate="20140419T132724Z">
+        <seg>interfacetopbar_budget_moneyin					Revenus : $*M / jour</seg>
       </tuv>
     </tu>
     <tu>
