@@ -5240,8 +5240,8 @@
       <tuv lang="EN-GB">
         <seg>contraband_key_supply                   Supply</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T214026Z" creationid="Happy_Killing" creationdate="20140611T214000Z">
-        <seg>contraband_key_supply                   Recherche</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053101Z" creationid="Happy_Killing" creationdate="20140611T214000Z">
+        <seg>contraband_key_supply                   Offre</seg>
       </tuv>
     </tu>
     <tu>
