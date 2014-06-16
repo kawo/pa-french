@@ -5462,6 +5462,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>damage_dead                             Dead</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084751Z" creationid="kawo" creationdate="20140616T084745Z">
+        <seg>damage_dead                             Mort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>damage_injured                          Injured</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084820Z" creationid="kawo" creationdate="20140616T084820Z">
+        <seg>damage_injured                          Blessé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>damage_serious                          Seriously Injured</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084814Z" creationid="kawo" creationdate="20140616T084814Z">
+        <seg>damage_serious                          Gravement blessé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>damage_unconscious                      Unconscious</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084806Z" creationid="kawo" creationdate="20140616T084806Z">
+        <seg>damage_unconscious                      Inconscient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>dialog_add                              Add</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T123444Z" creationid="kawo" creationdate="20140419T123444Z">
@@ -6674,6 +6706,102 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T174445Z" creationid="kawo" creationdate="20140419T161214Z">
         <seg>failuremessage_maxstaff                 Trop d'employés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_brother                          Brother</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084727Z" creationid="kawo" creationdate="20140616T084727Z">
+        <seg>family_brother                          Frère</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_caption                          Family:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084739Z" creationid="kawo" creationdate="20140616T084739Z">
+        <seg>family_caption                          Famille :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_daughter                         Daughter</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084706Z" creationid="kawo" creationdate="20140616T084706Z">
+        <seg>family_daughter                         Fille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_exwife                           Ex-Wife</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084653Z" creationid="kawo" creationdate="20140616T084653Z">
+        <seg>family_exwife                           Ex-femme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_father                           Father</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084723Z" creationid="kawo" creationdate="20140616T084723Z">
+        <seg>family_father                           Père</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_girlfriend                       Girlfriend</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084659Z" creationid="kawo" creationdate="20140616T084659Z">
+        <seg>family_girlfriend                       Petite copine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_lawyer                           Lawyer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084735Z" creationid="kawo" creationdate="20140616T084735Z">
+        <seg>family_lawyer                           Avocat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_mother                           Mother</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084719Z" creationid="kawo" creationdate="20140616T084719Z">
+        <seg>family_mother                           Mère</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_none                             None</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084742Z" creationid="kawo" creationdate="20140616T084742Z">
+        <seg>family_none                             Aucune</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_sister                           Sister</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084731Z" creationid="kawo" creationdate="20140616T084731Z">
+        <seg>family_sister                           Soeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_son                              Son</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084702Z" creationid="kawo" creationdate="20140616T084702Z">
+        <seg>family_son                              Fils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>family_wife                             Wife</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084648Z" creationid="kawo" creationdate="20140616T084648Z">
+        <seg>family_wife                             Femme</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,6 +15338,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T133502Z" creationid="kawo" creationdate="20140429T133502Z">
         <seg>victory_warning_toomanyescapes          Vous serez licencié en cas de nouvelles évasions aujourd'hui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>visitor_age                             Age : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084641Z" creationid="kawo" creationdate="20140616T084641Z">
+        <seg>visitor_age                             Age : *X</seg>
       </tuv>
     </tu>
     <tu>
