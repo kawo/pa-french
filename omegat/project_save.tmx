@@ -12472,8 +12472,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_max3                      You can accept no more than three grants at a time.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194821Z" creationid="kawo" creationdate="20140419T194821Z">
-        <seg>report_grants_max3                      Vous ne pouvez contracter plus de trois prêts à la fois.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061515Z" creationid="kawo" creationdate="20140419T194821Z">
+        <seg>report_grants_max3                      Vous ne pouvez pas contracter\nplus de trois prêts à la fois.</seg>
       </tuv>
     </tu>
     <tu>
