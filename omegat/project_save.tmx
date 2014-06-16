@@ -6552,8 +6552,8 @@
       <tuv lang="EN-GB">
         <seg>finances_category_exports               Exports (yesterday)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T210634Z" creationid="Happy_Killing" creationdate="20140611T210634Z">
-        <seg>finances_category_exports               Exportations (yesterday)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050946Z" creationid="Happy_Killing" creationdate="20140611T210634Z">
+        <seg>finances_category_exports               Exportation (hier)</seg>
       </tuv>
     </tu>
     <tu>
