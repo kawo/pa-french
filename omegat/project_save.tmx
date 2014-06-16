@@ -12672,8 +12672,8 @@
       <tuv lang="EN-GB">
         <seg>reports_increaseloan                    Increase</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233910Z" creationid="kawo" creationdate="20140419T233910Z">
-        <seg>reports_increaseloan                    Augmente</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061923Z" creationid="kawo" creationdate="20140419T233910Z">
+        <seg>reports_increaseloan                    Augmenter</seg>
       </tuv>
     </tu>
     <tu>
