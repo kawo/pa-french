@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>(You can set up job openings from the Deployment screen.)\n\nAll Reform programs also take palce during Work time.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083717Z" creationid="kawo" creationdate="20140616T083717Z">
+        <seg>(Vous pouvez configurer les jobs disponibles depuis l'écran de déploiement)\n\nToutes les formations se font aussi pendant le temps de travail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>*C</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140602T111839Z" creationid="kawo" creationdate="20140602T111839Z">
