@@ -11936,8 +11936,8 @@
       <tuv lang="EN-GB">
         <seg>reform_locked                           LOCKED</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183512Z" creationid="Happy_Killing" creationdate="20140613T183512Z">
-        <seg>reform_locked                           FERME</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053751Z" creationid="Happy_Killing" creationdate="20140613T183512Z">
+        <seg>reform_locked                           FERMÉ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11968,8 +11968,8 @@
       <tuv lang="EN-GB">
         <seg>reform_start                            START</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183559Z" creationid="Happy_Killing" creationdate="20140613T183559Z">
-        <seg>reform_start                            DEMARRER</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053755Z" creationid="Happy_Killing" creationdate="20140613T183559Z">
+        <seg>reform_start                            DÉMARRER</seg>
       </tuv>
     </tu>
     <tu>
