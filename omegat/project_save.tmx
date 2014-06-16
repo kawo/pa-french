@@ -11144,8 +11144,8 @@
       <tuv lang="EN-GB">
         <seg>objective_intake_categories             Categories:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181859Z" creationid="Happy_Killing" creationdate="20140613T181859Z">
-        <seg>objective_intake_categories             Catégories:</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053452Z" creationid="Happy_Killing" creationdate="20140613T181859Z">
+        <seg>objective_intake_categories             Catégories :</seg>
       </tuv>
     </tu>
     <tu>
