@@ -6856,16 +6856,16 @@
       <tuv lang="EN-GB">
         <seg>interface_contents_container                    Contents : *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175730Z" creationid="Happy_Killing" creationdate="20140613T175730Z">
-        <seg>interface_contents_container                    Contenus : *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044209Z" creationid="Happy_Killing" creationdate="20140613T175730Z">
+        <seg>interface_contents_container                    Contenu : *X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>interface_contents_stack                        Contents : *X x *Y</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175739Z" creationid="Happy_Killing" creationdate="20140613T175739Z">
-        <seg>interface_contents_stack                        Contenus : *X x *Y</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044159Z" creationid="Happy_Killing" creationdate="20140613T175739Z">
+        <seg>interface_contents_stack                        Contenu : *X x *Y</seg>
       </tuv>
     </tu>
     <tu>
