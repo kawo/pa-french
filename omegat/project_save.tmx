@@ -11848,8 +11848,8 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_passchance                     Pass Chance</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T073124Z" creationid="Happy_Killing" creationdate="20140611T190735Z">
-        <seg>rapsheet_passchance                     Taux de réussite</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T073755Z" creationid="Happy_Killing" creationdate="20140611T190735Z">
+        <seg>rapsheet_passchance                     Chance de réussite</seg>
       </tuv>
     </tu>
     <tu>
