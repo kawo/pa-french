@@ -6744,8 +6744,8 @@
       <tuv lang="EN-GB">
         <seg>finances_income                         Income</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200724Z" creationid="kawo" creationdate="20140419T200724Z">
-        <seg>finances_income                         Revenus brut</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062948Z" creationid="kawo" creationdate="20140419T200724Z">
+        <seg>finances_income                         Revenus</seg>
       </tuv>
     </tu>
     <tu>
