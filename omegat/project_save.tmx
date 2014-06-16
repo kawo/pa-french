@@ -6664,24 +6664,24 @@
       <tuv lang="EN-GB">
         <seg>finances_category_maxsecprisoners       Maxsec Prisoner Grant</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T204832Z" creationid="Happy_Killing" creationdate="20140611T204832Z">
-        <seg>finances_category_maxsecprisoners       Subside Prisonnier Maxsec</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063312Z" creationid="Happy_Killing" creationdate="20140611T204832Z">
+        <seg>finances_category_maxsecprisoners       Bonus détenus séc. max.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>finances_category_medsecprisoners       Standard Prisoner Grant</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T204823Z" creationid="Happy_Killing" creationdate="20140611T204823Z">
-        <seg>finances_category_medsecprisoners       Subside Prisonnier Moysec</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063314Z" creationid="Happy_Killing" creationdate="20140611T204823Z">
+        <seg>finances_category_medsecprisoners       Bonus détenus séc. moy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>finances_category_minsecprisoners       Minsec Prisoner Grant</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T204805Z" creationid="Happy_Killing" creationdate="20140611T204805Z">
-        <seg>finances_category_minsecprisoners       Subside Prisonnier Minsec</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063317Z" creationid="Happy_Killing" creationdate="20140611T204805Z">
+        <seg>finances_category_minsecprisoners       Bonus détenus sec. min.</seg>
       </tuv>
     </tu>
     <tu>
