@@ -8646,6 +8646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>need_name_environment                   Environment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053340Z" creationid="kawo" creationdate="20140616T053340Z">
+        <seg>need_name_environment                   Environnement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>need_name_exercise                      Exercise</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181524Z" creationid="Happy_Killing" creationdate="20140613T181524Z">
@@ -8704,8 +8712,8 @@
       <tuv lang="EN-GB">
         <seg>need_name_recreation                    Recreation</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181651Z" creationid="Happy_Killing" creationdate="20140613T181550Z">
-        <seg>need_name_recreation                        Récréation</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053322Z" creationid="Happy_Killing" creationdate="20140613T181550Z">
+        <seg>need_name_recreation                        Loisir</seg>
       </tuv>
     </tu>
     <tu>
