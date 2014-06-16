@@ -8088,8 +8088,8 @@
       <tuv lang="EN-GB">
         <seg>legend_key                              Key:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213058Z" creationid="Happy_Killing" creationdate="20140611T213058Z">
-        <seg>legend_key                              Clef:</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T052847Z" creationid="Happy_Killing" creationdate="20140611T213058Z">
+        <seg>legend_key                              Clef :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8728,8 +8728,8 @@
       <tuv lang="EN-GB">
         <seg>needs_graphscale_title                  Prisoners:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213106Z" creationid="Happy_Killing" creationdate="20140611T213106Z">
-        <seg>needs_graphscale_title                  Prisonniers:</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T052854Z" creationid="Happy_Killing" creationdate="20140611T213106Z">
+        <seg>needs_graphscale_title                  Détenus :</seg>
       </tuv>
     </tu>
     <tu>
