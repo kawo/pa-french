@@ -11440,24 +11440,24 @@
       <tuv lang="EN-GB">
         <seg>punish_lockdown_12                      Lockdown (12hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192741Z" creationid="Happy_Killing" creationdate="20140611T192741Z">
-        <seg>punish_lockdown_12                      Isolement (12hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045455Z" creationid="Happy_Killing" creationdate="20140611T192741Z">
+        <seg>punish_lockdown_12                      Enfermé (12hrs)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>punish_lockdown_24                      Lockdown (24hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192747Z" creationid="Happy_Killing" creationdate="20140611T192747Z">
-        <seg>punish_lockdown_24                      Isolement (24hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045500Z" creationid="Happy_Killing" creationdate="20140611T192747Z">
+        <seg>punish_lockdown_24                      Enfermé (24hrs)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>punish_lockdown_6                       Lockdown (6hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192737Z" creationid="Happy_Killing" creationdate="20140611T192737Z">
-        <seg>punish_lockdown_6                       Isolement (6hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045448Z" creationid="Happy_Killing" creationdate="20140611T192737Z">
+        <seg>punish_lockdown_6                       Enfermé (6hrs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11626,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192516Z" creationid="Happy_Killing" creationdate="20140611T192516Z">
         <seg>rapsheet_grading_penalties              *X penalités :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>rapsheet_grading_points                 *X points :</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045400Z" creationid="kawo" creationdate="20140616T045400Z">
+        <seg>rapsheet_grading_points                 *X points :</seg>
       </tuv>
     </tu>
     <tu>
