@@ -11392,8 +11392,8 @@
       <tuv lang="EN-GB">
         <seg>policy_punishmenttime                   *X hrs</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050701Z" creationid="kawo" creationdate="20140616T050701Z">
-        <seg>policy_punishmenttime                   *X hrs</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075249Z" creationid="kawo" creationdate="20140616T050701Z">
+        <seg>policy_punishmenttime                   *X h</seg>
       </tuv>
     </tu>
     <tu>
