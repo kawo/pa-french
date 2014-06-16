@@ -8208,8 +8208,8 @@
       <tuv lang="EN-GB">
         <seg>material_ceramicfloor                    Ceramic Floor</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230224Z" creationid="kawo" creationdate="20140419T230224Z">
-        <seg>material_ceramicfloor                    Carrelage en céramique</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060131Z" creationid="kawo" creationdate="20140419T230224Z">
+        <seg>material_ceramicfloor                    Carrelage céramique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8312,8 +8312,8 @@
       <tuv lang="EN-GB">
         <seg>material_mosaicfloor                     Mosaic Floor</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230232Z" creationid="kawo" creationdate="20140419T230232Z">
-        <seg>material_mosaicfloor                     Carrelage en mosaiques</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060137Z" creationid="kawo" creationdate="20140419T230232Z">
+        <seg>material_mosaicfloor                     Carrelage mosaiques</seg>
       </tuv>
     </tu>
     <tu>
