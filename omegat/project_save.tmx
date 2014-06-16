@@ -14296,8 +14296,8 @@
       <tuv lang="EN-GB">
         <seg>statustoolbar_research                  Research</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T174743Z" creationid="kawo" creationdate="20140419T174743Z">
-        <seg>statustoolbar_research                  Administration</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074018Z" creationid="kawo" creationdate="20140419T174743Z">
+        <seg>statustoolbar_research                  Recherches</seg>
       </tuv>
     </tu>
     <tu>
