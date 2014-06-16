@@ -12062,14 +12062,6 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
-        <seg>reform_program_difficulty_expert        - Expert</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082112Z" creationid="kawo" creationdate="20140616T082112Z">
-        <seg>reform_program_difficulty_expert        - Expert∑</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
         <seg>reform_program_difficulty_intermediate  - Intermediate</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082058Z" creationid="kawo" creationdate="20140616T082058Z">
@@ -12470,6 +12462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>regime_unspecified                      Unspecified</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082133Z" creationid="kawo" creationdate="20140616T082133Z">
+        <seg>regime_unspecified                      Non spécifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>regime_work                             Work</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T232755Z" creationid="kawo" creationdate="20140419T232755Z">
@@ -12482,6 +12482,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T232745Z" creationid="kawo" creationdate="20140419T232745Z">
         <seg>regime_yard                             Cour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>regimetooltip_nothing                   Prisoners are locked in their cells.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082151Z" creationid="kawo" creationdate="20140616T082151Z">
+        <seg>regimetooltip_nothing                   Les détenus sont enfermés dans leurs cellules.</seg>
       </tuv>
     </tu>
     <tu>
