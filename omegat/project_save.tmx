@@ -12142,6 +12142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_properties_practical             Practical</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081945Z" creationid="kawo" creationdate="20140616T081945Z">
+        <seg>reform_program_properties_practical             Pratique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_properties_repeatable            Repeatable</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082018Z" creationid="kawo" creationdate="20140616T082018Z">
+        <seg>reform_program_properties_repeatable            Répétable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_properties_studentssit           Students Sit</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081914Z" creationid="kawo" creationdate="20140616T081914Z">
