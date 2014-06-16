@@ -11166,6 +11166,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>objective_intake_maxsec                 Max</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053503Z" creationid="kawo" creationdate="20140616T053503Z">
+        <seg>objective_intake_maxsec                 Max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>objective_intake_medsec                 Normal,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053500Z" creationid="kawo" creationdate="20140616T053500Z">
+        <seg>objective_intake_medsec                 Normal,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>objective_intake_minsec                 Min,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053455Z" creationid="kawo" creationdate="20140616T053455Z">
+        <seg>objective_intake_minsec                 Min,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>objective_intake_specials				Special Transfers:</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T202249Z" creationid="kawo" creationdate="20140419T202249Z">
@@ -11874,6 +11898,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182710Z" creationid="kawo" creationdate="20140419T182710Z">
         <seg>rapsheet_traits							Personnalités connues :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_completion                       .</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053650Z" creationid="kawo" creationdate="20140616T053650Z">
+        <seg>reform_completion                       .</seg>
       </tuv>
     </tu>
     <tu>
