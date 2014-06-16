@@ -12728,8 +12728,8 @@
       <tuv lang="EN-GB">
         <seg>research_movementpenalty                Movement Penalty: *X%</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193821Z" creationid="Happy_Killing" creationdate="20140611T193821Z">
-        <seg>research_movementpenalty                Mouvement de pénalité: *X%</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045721Z" creationid="Happy_Killing" creationdate="20140611T193821Z">
+        <seg>research_movementpenalty                Pénalité de mouvement : *X%</seg>
       </tuv>
     </tu>
     <tu>
@@ -12824,8 +12824,8 @@
       <tuv lang="EN-GB">
         <seg>research_timetounlock                   Time to unlock : *X hours</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045629Z" creationid="Happy_Killing" creationdate="20140611T193610Z">
-        <seg>research_timetounlock                   Débloqué dans : *X hours</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045711Z" creationid="Happy_Killing" creationdate="20140611T193610Z">
+        <seg>research_timetounlock                   Débloqué dans : *X heures</seg>
       </tuv>
     </tu>
     <tu>
