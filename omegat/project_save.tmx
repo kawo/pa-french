@@ -12072,8 +12072,8 @@
       <tuv lang="EN-GB">
         <seg>reform_queued                           *X in queue</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183238Z" creationid="Happy_Killing" creationdate="20140613T183238Z">
-        <seg>reform_queued                           *X en file d'attente</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062907Z" creationid="Happy_Killing" creationdate="20140613T183238Z">
+        <seg>reform_queued                           *X en attente</seg>
       </tuv>
     </tu>
     <tu>
