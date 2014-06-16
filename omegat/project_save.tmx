@@ -12184,8 +12184,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_bankloan_amount           Current Bank Loan  *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194653Z" creationid="Happy_Killing" creationdate="20140611T194653Z">
-        <seg>report_grants_bankloan_amount           Prêt actuelle  *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050324Z" creationid="Happy_Killing" creationdate="20140611T194653Z">
+        <seg>report_grants_bankloan_amount           Prêt actuel *X</seg>
       </tuv>
     </tu>
     <tu>
@@ -14184,8 +14184,8 @@
       <tuv lang="EN-GB">
         <seg>unlock_special_officersafety            Officer Safety</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194610Z" creationid="kawo" creationdate="20140419T193755Z">
-        <seg>unlock_special_officersafety            Sécurité des Agents</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050259Z" creationid="kawo" creationdate="20140419T193755Z">
+        <seg>unlock_special_officersafety            Sécurité des agents</seg>
       </tuv>
     </tu>
     <tu>
