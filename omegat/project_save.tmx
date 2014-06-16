@@ -11944,8 +11944,8 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_tab_experience                 Experience</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183432Z" creationid="kawo" creationdate="20140419T183432Z">
-        <seg>rapsheet_tab_experience                 Expérience</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072807Z" creationid="kawo" creationdate="20140419T183432Z">
+        <seg>rapsheet_tab_experience                 Détails</seg>
       </tuv>
     </tu>
     <tu>
