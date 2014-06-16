@@ -4392,8 +4392,8 @@
       <tuv lang="EN-GB">
         <seg>codex_option_failure                    Failure conditions</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140429T132125Z" creationid="kawo" creationdate="20140429T132014Z">
-        <seg>codex_option_failure                    Critères d'échecs</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T071427Z" creationid="kawo" creationdate="20140429T132014Z">
+        <seg>codex_option_failure                    Possibilités de game over</seg>
       </tuv>
     </tu>
     <tu>
