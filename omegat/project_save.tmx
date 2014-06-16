@@ -13056,8 +13056,8 @@
       <tuv lang="EN-GB">
         <seg>researchtooltip_policy                  Unlocks the Policy Report, allowing you to increase and decrease the punishments for all types of misconduct, as well as automatically triggering searches of the misbehaving prisoner and his cell.\n\nAlso allows you to control the nutritional policy, changing the quantity and variety of food served to prisoners</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194315Z" creationid="Happy_Killing" creationdate="20140611T194315Z">
-        <seg>researchtooltip_policy                  Déverrouille le Rapport sur la politique, vous permettant d'augmenter et de diminuer les peines pour tous les types de faute, ainsi que le déclenchement des fouilles des prisonniers et de leur cellules.\n\nVous pouvez également contrôler la politique nutritionnelle, modification de la quantité et de la variété de la nourriture servie aux prisonniers</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050137Z" creationid="Happy_Killing" creationdate="20140611T194315Z">
+        <seg>researchtooltip_policy                  Déverrouille le Rapport sur la politique carcérale, vous permettant d'augmenter ou de diminuer les sanctions pour chaque type de faute, ainsi que le déclenchement automatique des fouilles des détenus et de leurs cellules.\n\nVous pouvez également contrôler la politique nutritionnelle, modification de la quantité et de la variété des repas servis aux détenus</seg>
       </tuv>
     </tu>
     <tu>
