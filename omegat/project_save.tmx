@@ -264,8 +264,8 @@
       <tuv lang="EN-GB">
         <seg>*X finished .</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062500Z" creationid="Happy_Killing" creationdate="20140613T183319Z">
-        <seg>*X ont suivi</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062716Z" creationid="Happy_Killing" creationdate="20140613T183319Z">
+        <seg>*X ont terminé</seg>
       </tuv>
     </tu>
     <tu>
@@ -12056,8 +12056,8 @@
       <tuv lang="EN-GB">
         <seg>reform_program_starting                 starting</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183629Z" creationid="Happy_Killing" creationdate="20140613T183629Z">
-        <seg>reform_program_starting                 lancement</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062708Z" creationid="Happy_Killing" creationdate="20140613T183629Z">
+        <seg>reform_program_starting                 </seg>
       </tuv>
     </tu>
     <tu>
