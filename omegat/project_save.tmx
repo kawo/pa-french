@@ -5462,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>damage_amount                           *X% Damaged</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084855Z" creationid="kawo" creationdate="20140616T084855Z">
+        <seg>damage_amount                           *X% endommagé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>damage_dead                             Dead</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084751Z" creationid="kawo" creationdate="20140616T084745Z">
@@ -6802,6 +6810,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084648Z" creationid="kawo" creationdate="20140616T084648Z">
         <seg>family_wife                             Femme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_equiptazer                 Equipment: Tazer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084959Z" creationid="kawo" creationdate="20140616T084959Z">
+        <seg>finance_cost_equiptazer                 Équipement : Taser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_prisonsale                 Sale of previous prison</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084920Z" creationid="kawo" creationdate="20140616T084920Z">
+        <seg>finance_cost_prisonsale                 Vente de la prison précédente</seg>
       </tuv>
     </tu>
     <tu>
