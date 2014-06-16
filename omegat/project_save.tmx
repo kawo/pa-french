@@ -888,8 +888,8 @@
       <tuv lang="EN-GB">
         <seg>If you should somehow end up in prison yourself, this is the prisoner that will represent you.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190255Z" creationid="Happy_Killing" creationdate="20140611T190255Z">
-        <seg>Si vous finissez d'une manière ou d'une autre en prison, c'est le prisonnier qui vous représentera.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044851Z" creationid="Happy_Killing" creationdate="20140611T190255Z">
+        <seg>Si vous finissez d'une manière ou d'une autre en prison, c'est ce détenu qui vous représentera.</seg>
       </tuv>
     </tu>
     <tu>
