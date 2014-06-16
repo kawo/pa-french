@@ -7734,14 +7734,6 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
-        <seg>interfacetopbar_title_tension                   Danger</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130856Z" creationid="kawo" creationdate="20140419T130856Z">
-        <seg>interfacetopbar_title_tension                   Menace</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
         <seg>interfacetopbar_todo							Todo list</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130459Z" creationid="kawo" creationdate="20140419T130459Z">
@@ -7880,8 +7872,8 @@
       <tuv lang="EN-GB">
         <seg>interfacetopbar_tooltip_tension                 The overall danger level of your prison, according to your security chief</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T132252Z" creationid="kawo" creationdate="20140419T132252Z">
-        <seg>interfacetopbar_tooltip_tension                 Niveau global de menace de votre prison selon votre chef de la sécurité</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064134Z" creationid="kawo" creationdate="20140419T132252Z">
+        <seg>interfacetopbar_tooltip_tension                 Niveau global de dangerosité de votre prison selon votre chef de la sécurité</seg>
       </tuv>
     </tu>
     <tu>
