@@ -11912,8 +11912,8 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_reformhistory                  Reform Program History</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190816Z" creationid="Happy_Killing" creationdate="20140611T190816Z">
-        <seg>rapsheet_reformhistory                  Historique des programmes</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T073146Z" creationid="Happy_Killing" creationdate="20140611T190816Z">
+        <seg>rapsheet_reformhistory                  Historique des formations</seg>
       </tuv>
     </tu>
     <tu>
