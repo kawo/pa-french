@@ -7584,8 +7584,8 @@
       <tuv lang="EN-GB">
         <seg>interfacetopbar_tension_currentlevel            The danger level is *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T133623Z" creationid="kawo" creationdate="20140419T133623Z">
-        <seg>interfacetopbar_tension_currentlevel            Le niveau de menace est *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064302Z" creationid="kawo" creationdate="20140419T133623Z">
+        <seg>interfacetopbar_tension_currentlevel            Le niveau de danger est *X</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7730,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130838Z" creationid="kawo" creationdate="20140419T130838Z">
         <seg>interfacetopbar_title_prisoners					Détenus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interfacetopbar_title_tension                   Danger</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064147Z" creationid="kawo" creationdate="20140616T064147Z">
+        <seg>interfacetopbar_title_tension                   Danger</seg>
       </tuv>
     </tu>
     <tu>
