@@ -11616,24 +11616,24 @@
       <tuv lang="EN-GB">
         <seg>punish_solitary_12                      Solitary (12hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192812Z" creationid="Happy_Killing" creationdate="20140611T192812Z">
-        <seg>punish_solitary_12                      Confinement (12hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074416Z" creationid="Happy_Killing" creationdate="20140611T192812Z">
+        <seg>punish_solitary_12                      Confinement (12h)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>punish_solitary_24                      Solitary (24hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192816Z" creationid="Happy_Killing" creationdate="20140611T192816Z">
-        <seg>punish_solitary_24                      Confinement (24hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074418Z" creationid="Happy_Killing" creationdate="20140611T192816Z">
+        <seg>punish_solitary_24                      Confinement (24h)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>punish_solitary_6                       Solitary (6hrs)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192808Z" creationid="Happy_Killing" creationdate="20140611T192808Z">
-        <seg>punish_solitary_6                       Confinement (6hrs)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074427Z" creationid="Happy_Killing" creationdate="20140611T192808Z">
+        <seg>punish_solitary_6                       Confinement (6h)</seg>
       </tuv>
     </tu>
     <tu>
