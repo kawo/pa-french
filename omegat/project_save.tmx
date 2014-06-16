@@ -14398,6 +14398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>valuation_subcashreserves               Minus Cash Reserves : *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050640Z" creationid="kawo" creationdate="20140616T050640Z">
+        <seg>valuation_subcashreserves               Réserve d'argent exclu : *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>valuation_tenpercentprice               Price for 10% : *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T203118Z" creationid="Happy_Killing" creationdate="20140611T203118Z">
