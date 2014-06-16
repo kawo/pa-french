@@ -12126,6 +12126,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_properties_academic              Academic</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081936Z" creationid="kawo" creationdate="20140616T081936Z">
+        <seg>reform_program_properties_academic              Théorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_properties_canhireexternally     Can Hire Externally</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081818Z" creationid="kawo" creationdate="20140616T081813Z">
+        <seg>reform_program_properties_canhireexternally     Can Hire Externally</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_properties_studentssit           Students Sit</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081914Z" creationid="kawo" creationdate="20140616T081914Z">
+        <seg>reform_program_properties_studentssit           Les élèves sont assis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_requirements             - Each prisoner requires a *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081228Z" creationid="kawo" creationdate="20140616T081228Z">
