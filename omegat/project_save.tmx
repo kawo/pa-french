@@ -12336,8 +12336,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_advancepayment            *X Advance payment</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202004Z" creationid="Happy_Killing" creationdate="20140611T202004Z">
-        <seg>report_grants_advancepayment            *X Paiement anticipé</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061722Z" creationid="Happy_Killing" creationdate="20140611T202004Z">
+        <seg>report_grants_advancepayment            *X avancé</seg>
       </tuv>
     </tu>
     <tu>
