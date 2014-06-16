@@ -6784,8 +6784,8 @@
       <tuv lang="EN-GB">
         <seg>gameover_caption                              Press ESC to continue</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T135931Z" creationid="kawo" creationdate="20140419T135123Z">
-        <seg>gameover_caption                              Press ESC to continue</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064617Z" creationid="kawo" creationdate="20140419T135123Z">
+        <seg>gameover_caption                              Appuyez sur ESC pour continuer</seg>
       </tuv>
     </tu>
     <tu>
