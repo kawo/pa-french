@@ -2912,8 +2912,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_lockdown                   Lockdown</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192657Z" creationid="kawo" creationdate="20140419T140749Z">
-        <seg>buildtoolbar_lockdown                   Isolement</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044732Z" creationid="kawo" creationdate="20140419T140749Z">
+        <seg>buildtoolbar_lockdown                   Verrouillage</seg>
       </tuv>
     </tu>
     <tu>
@@ -4880,8 +4880,8 @@
       <tuv lang="EN-GB">
         <seg>codex_tooltip_useravatar                Mark this prisoner as your own entry.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190218Z" creationid="Happy_Killing" creationdate="20140611T190218Z">
-        <seg>codex_tooltip_useravatar                Séléctionner se prisonier comme étant vous.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044744Z" creationid="Happy_Killing" creationdate="20140611T190218Z">
+        <seg>codex_tooltip_useravatar                Séléctionner ce prisonier comme étant vous.</seg>
       </tuv>
     </tu>
     <tu>
