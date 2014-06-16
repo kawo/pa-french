@@ -11256,8 +11256,8 @@
       <tuv lang="EN-GB">
         <seg>objective_intake_medsec                 Normal,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053500Z" creationid="kawo" creationdate="20140616T053500Z">
-        <seg>objective_intake_medsec                 Normal,</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T080230Z" creationid="kawo" creationdate="20140616T053500Z">
+        <seg>objective_intake_medsec                 Normale,</seg>
       </tuv>
     </tu>
     <tu>
