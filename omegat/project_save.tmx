@@ -12192,8 +12192,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_bankloan_interest         Interest *X per day</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T194716Z" creationid="Happy_Killing" creationdate="20140611T194716Z">
-        <seg>report_grants_bankloan_interest         intérêt *X par jour</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050343Z" creationid="Happy_Killing" creationdate="20140611T194716Z">
+        <seg>report_grants_bankloan_interest         Intérêt *X par jour</seg>
       </tuv>
     </tu>
     <tu>
