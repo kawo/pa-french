@@ -5136,8 +5136,8 @@
       <tuv lang="EN-GB">
         <seg>codex_workshop_downloading				Downloading</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T180902Z" creationid="kawo" creationdate="20140419T180902Z">
-        <seg>codex_workshop_downloading				Téléchargement en cours</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055845Z" creationid="kawo" creationdate="20140419T180902Z">
+        <seg>codex_workshop_downloading				Téléchargement...</seg>
       </tuv>
     </tu>
     <tu>
