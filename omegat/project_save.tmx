@@ -4080,8 +4080,8 @@
       <tuv lang="EN-GB">
         <seg>codex_language_searching_workshop       Searching Steam Workshop</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045146Z" creationid="kawo" creationdate="20140616T045146Z">
-        <seg>codex_language_searching_workshop       Recherche dans le Workshop Steam</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045202Z" creationid="kawo" creationdate="20140616T045146Z">
+        <seg>codex_language_searching_workshop       Recherche en cours dans le Workshop</seg>
       </tuv>
     </tu>
     <tu>
