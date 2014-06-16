@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_language_community                These translation packs are created and maintained by the community - Thank You!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045251Z" creationid="kawo" creationdate="20140616T045251Z">
+        <seg>codex_language_community                Ces packs de traductions sont créés et maintenus par la communauté, merci !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_language_default                  Default Language</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T132623Z" creationid="kawo" creationdate="20140429T132623Z">
@@ -4280,8 +4288,8 @@
       <tuv lang="EN-GB">
         <seg>codex_mod_translationcaption            Is this a translation to another language?</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045019Z" creationid="kawo" creationdate="20140616T045019Z">
-        <seg>codex_mod_translationcaption            Est-ce un mod de traduction ?</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045257Z" creationid="kawo" creationdate="20140616T045019Z">
+        <seg>codex_mod_translationcaption            Est-ce un pack de traduction ?</seg>
       </tuv>
     </tu>
     <tu>
