@@ -5318,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>contraband_type                         Type: *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T054203Z" creationid="kawo" creationdate="20140616T054203Z">
+        <seg>contraband_type                         Type : *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>contraband_weapons                      Weapons</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213643Z" creationid="Happy_Killing" creationdate="20140611T213643Z">
