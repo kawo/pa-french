@@ -6336,8 +6336,8 @@
       <tuv lang="EN-GB">
         <seg>experience_nocondition                  None</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072446Z" creationid="kawo" creationdate="20140419T201744Z">
-        <seg>experience_nocondition                  Aucune</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T073808Z" creationid="kawo" creationdate="20140419T201744Z">
+        <seg>experience_nocondition                  Aucun</seg>
       </tuv>
     </tu>
     <tu>
