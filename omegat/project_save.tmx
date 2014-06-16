@@ -12360,8 +12360,8 @@
       <tuv lang="EN-GB">
         <seg>report_prisoners_title                  Prisoners *X (Max *M)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202336Z" creationid="Happy_Killing" creationdate="20140611T202336Z">
-        <seg>report_prisoners_title                  Prisonniers *X (Max *M)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050445Z" creationid="Happy_Killing" creationdate="20140611T202336Z">
+        <seg>report_prisoners_title                  Détenus *X (Max *M)</seg>
       </tuv>
     </tu>
     <tu>
