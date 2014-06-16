@@ -8456,8 +8456,8 @@
       <tuv lang="EN-GB">
         <seg>misconduct_report_recoving                  Recovering from *X addiction</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193241Z" creationid="Happy_Killing" creationdate="20140611T193241Z">
-        <seg>misconduct_report_recoving                  Cure detox de *X addiction</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074612Z" creationid="Happy_Killing" creationdate="20140611T193241Z">
+        <seg>misconduct_report_recoving                  Se remet de *X addictions</seg>
       </tuv>
     </tu>
     <tu>
