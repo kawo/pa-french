@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>They have nothing to do but reflect on the choices they made that led them to this place.\n\nLong stretches of lockup can prove a decisive punishment to even the hardest of prisoners.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082418Z" creationid="kawo" creationdate="20140616T082418Z">
+        <seg>Ils n'ont rien d'autre à faire que de méditer sur les actions qui les ont conduits ici.\n\nDe longues sessions d'enfermement peuvent venir à bout de n'importe quel détenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This can help absorb damage during a fight, but your guards will move slower.\n\nGuards must visit the armoury to get this equipment, and it will cost you for all body armour purchased this way.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T192100Z" creationid="kawo" creationdate="20140419T192045Z">
@@ -12490,6 +12498,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082151Z" creationid="kawo" creationdate="20140616T082151Z">
         <seg>regimetooltip_nothing                   Les détenus sont enfermés dans leurs cellules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>regimetooltip_sleep                     Prisoners are locked in their cells, and the lights are turned out.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082442Z" creationid="kawo" creationdate="20140616T082442Z">
+        <seg>regimetooltip_sleep                     Les détenus sont enfermés dans leurs cellules, les lumières éteintes.</seg>
       </tuv>
     </tu>
     <tu>
