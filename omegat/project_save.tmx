@@ -6766,6 +6766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finances_title                          Finances</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075318Z" creationid="kawo" creationdate="20140616T075318Z">
+        <seg>finances_title                          Finances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finances_total                          Total</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200735Z" creationid="kawo" creationdate="20140419T200735Z">
