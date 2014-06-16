@@ -12432,8 +12432,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_inprogress_tt             (IN PROGESS)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201506Z" creationid="Happy_Killing" creationdate="20140611T201506Z">
-        <seg>report_grants_inprogress_tt             (PROGRESSION)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061547Z" creationid="Happy_Killing" creationdate="20140611T201506Z">
+        <seg>report_grants_inprogress_tt             (EN COURS)</seg>
       </tuv>
     </tu>
     <tu>
