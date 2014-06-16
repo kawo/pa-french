@@ -14432,8 +14432,8 @@
       <tuv lang="EN-GB">
         <seg>valuation_construction                  Bricks and Morter</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194923Z" creationid="kawo" creationdate="20140419T194923Z">
-        <seg>valuation_construction                  Briques et fondations</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075140Z" creationid="kawo" creationdate="20140419T194923Z">
+        <seg>valuation_construction                  Murs et fondations</seg>
       </tuv>
     </tu>
     <tu>
