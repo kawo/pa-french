@@ -11872,16 +11872,16 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_reform_failcount               Failed *X times</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192246Z" creationid="Happy_Killing" creationdate="20140611T192246Z">
-        <seg>rapsheet_reform_failcount               Ajourné *X fois</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074402Z" creationid="Happy_Killing" creationdate="20140611T192246Z">
+        <seg>rapsheet_reform_failcount               Recalé *X fois</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>rapsheet_reform_failed                  Failed</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192301Z" creationid="Happy_Killing" creationdate="20140611T192105Z">
-        <seg>rapsheet_reform_failed                  Ajourné</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074355Z" creationid="Happy_Killing" creationdate="20140611T192105Z">
+        <seg>rapsheet_reform_failed                  Recalé</seg>
       </tuv>
     </tu>
     <tu>
