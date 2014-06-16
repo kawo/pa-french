@@ -7438,14 +7438,6 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
-        <seg>interfacedeployment_jobs                        Jobs</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130106Z" creationid="kawo" creationdate="20140419T130106Z">
-        <seg>interfacedeployment_jobs                        Tâches</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
         <seg>interfacedeployment_maxseczone                  Max Sec Only</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130211Z" creationid="kawo" creationdate="20140419T130211Z">
