@@ -8296,8 +8296,8 @@
       <tuv lang="EN-GB">
         <seg>material_marbletiles                     Marble Tiles</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230311Z" creationid="kawo" creationdate="20140419T230301Z">
-        <seg>material_marbletiles                     Carrelage en marbre</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060152Z" creationid="kawo" creationdate="20140419T230301Z">
+        <seg>material_marbletiles                     Carrelage marbre</seg>
       </tuv>
     </tu>
     <tu>
