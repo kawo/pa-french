@@ -12542,6 +12542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>regimetooltip_yard                      Prisoners are let out of the facility and into the yard, for some much needed exercise, sunlight and fresh air.\n\nPrisoners will make use of any facilities within the yard during this time - eg Weights benches for working out, telephones to call loved ones, showers etc.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083310Z" creationid="kawo" creationdate="20140616T083310Z">
+        <seg>regimetooltip_yard                      Les détenus se rendent dans la cour pour s'exercer, profiter du soleil ou prendre un bol d'air frais.\n\nIls peuvent utiliser n'importe quel équipement présent pendant ce temps - ex : les haltères pour s'entraîner, les cabines téléphoniques, les douches, etc..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>report_contraband                       Contraband</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194244Z" creationid="kawo" creationdate="20140419T194244Z">
