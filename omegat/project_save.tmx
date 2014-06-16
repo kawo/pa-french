@@ -4782,6 +4782,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_timelapse_cam_fitheight           Fit Map Height</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055358Z" creationid="kawo" creationdate="20140616T055358Z">
+        <seg>codex_timelapse_cam_fitheight           Ajuster à la hauteur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_timelapse_cam_fitmap              Fit Map</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055337Z" creationid="kawo" creationdate="20140616T055337Z">
+        <seg>codex_timelapse_cam_fitmap              Ajuster à la carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_timelapse_cam_fitwidth            Fit Map Width</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055407Z" creationid="kawo" creationdate="20140616T055407Z">
+        <seg>codex_timelapse_cam_fitwidth            Ajuster à la largeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_timelapse_cam_zoom                Zoom Camera</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055218Z" creationid="kawo" creationdate="20140616T055218Z">
@@ -4822,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_timelapse_fps_value               *X fps</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055411Z" creationid="kawo" creationdate="20140616T055411Z">
+        <seg>codex_timelapse_fps_value               *X ips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_timelapse_interval				Capture Interval</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T181753Z" creationid="kawo" creationdate="20140419T181753Z">
@@ -4842,6 +4874,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T181757Z" creationid="kawo" creationdate="20140419T181757Z">
         <seg>codex_timelapse_quality					Qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_timelapse_quality_high            High</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055415Z" creationid="kawo" creationdate="20140616T055415Z">
+        <seg>codex_timelapse_quality_high            Haute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_timelapse_quality_med             Medium</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055418Z" creationid="kawo" creationdate="20140616T055418Z">
+        <seg>codex_timelapse_quality_med             Moyenne</seg>
       </tuv>
     </tu>
     <tu>
