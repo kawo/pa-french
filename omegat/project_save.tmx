@@ -6576,8 +6576,8 @@
       <tuv lang="EN-GB">
         <seg>finances_category_guards                Guard Wages</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205158Z" creationid="Happy_Killing" creationdate="20140611T205010Z">
-        <seg>finances_category_guards                Salaire - gardes</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050824Z" creationid="Happy_Killing" creationdate="20140611T205010Z">
+        <seg>finances_category_guards                Salaire - gardiens</seg>
       </tuv>
     </tu>
     <tu>
@@ -11274,6 +11274,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200328Z" creationid="kawo" creationdate="20140419T200328Z">
         <seg>policy_punishment                       SANCTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>policy_punishmenttime                   *X hrs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050701Z" creationid="kawo" creationdate="20140616T050701Z">
+        <seg>policy_punishmenttime                   *X hrs</seg>
       </tuv>
     </tu>
     <tu>
