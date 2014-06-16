@@ -14262,14 +14262,6 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
-        <seg>statustoolbar_finances                  Finances</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T174514Z" creationid="kawo" creationdate="20140419T174514Z">
-        <seg>statustoolbar_finances                  Comptabilité</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
         <seg>statustoolbar_gangs                     Gangs</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T174731Z" creationid="kawo" creationdate="20140419T174731Z">
