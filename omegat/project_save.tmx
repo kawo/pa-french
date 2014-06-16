@@ -11432,8 +11432,8 @@
       <tuv lang="EN-GB">
         <seg>punish_lockdown                         Lockdown</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T192832Z" creationid="Happy_Killing" creationdate="20140611T192832Z">
-        <seg>punish_lockdown                         Isolement</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045511Z" creationid="Happy_Killing" creationdate="20140611T192832Z">
+        <seg>punish_lockdown                         Enfermer</seg>
       </tuv>
     </tu>
     <tu>
