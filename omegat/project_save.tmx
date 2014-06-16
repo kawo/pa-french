@@ -6952,8 +6952,8 @@
       <tuv lang="EN-GB">
         <seg>interface_action_sellobject                     Sell Object</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184844Z" creationid="Happy_Killing" creationdate="20140611T184844Z">
-        <seg>interface_action_sellobject                     Vendre Objet</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064535Z" creationid="Happy_Killing" creationdate="20140611T184844Z">
+        <seg>interface_action_sellobject                     Vendre objet</seg>
       </tuv>
     </tu>
     <tu>
