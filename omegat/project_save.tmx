@@ -14312,8 +14312,8 @@
       <tuv lang="EN-GB">
         <seg>valuation_saleprice                     Sale Price: *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202604Z" creationid="Happy_Killing" creationdate="20140611T202604Z">
-        <seg>valuation_saleprice                     Prix de Vente: *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T050530Z" creationid="Happy_Killing" creationdate="20140611T202604Z">
+        <seg>valuation_saleprice                     Prix de vente : *X</seg>
       </tuv>
     </tu>
     <tu>
