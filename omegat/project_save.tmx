@@ -1864,8 +1864,8 @@
       <tuv lang="EN-GB">
         <seg>action_exercise                         Exercising</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T200941Z" creationid="kawo" creationdate="20140419T200941Z">
-        <seg>action_exercise                         S'entraîne</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075832Z" creationid="kawo" creationdate="20140419T200941Z">
+        <seg>action_exercise                         Fait du sport</seg>
       </tuv>
     </tu>
     <tu>
