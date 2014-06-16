@@ -2968,8 +2968,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_popup_designation			Designate areas of your prison with a specific function.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T142144Z" creationid="kawo" creationdate="20140419T142144Z">
-        <seg>buildtoolbar_popup_designation			Attribuer à une zone une fonction spécifique.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064825Z" creationid="kawo" creationdate="20140419T142144Z">
+        <seg>buildtoolbar_popup_designation			Attribuer une fonction spécifique à une zone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3432,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_popup_room_security		Offices for your Officers.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T144129Z" creationid="kawo" creationdate="20140419T144129Z">
-        <seg>buildtoolbar_popup_room_security		Bureau pour vos officiers de sécurité.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064942Z" creationid="kawo" creationdate="20140419T144129Z">
+        <seg>buildtoolbar_popup_room_security		Bureau pour vos agents de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
