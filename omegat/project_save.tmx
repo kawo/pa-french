@@ -3040,8 +3040,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_popup_obj_cctvmonitor		Allows up to 6 Cctv cameras to be used when a guard is within range of this monitor.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T154024Z" creationid="kawo" creationdate="20140419T154024Z">
-        <seg>buildtoolbar_popup_obj_cctvmonitor		Permet de contrôler 6 CCTV si un gardien est a proximité.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T065208Z" creationid="kawo" creationdate="20140419T154024Z">
+        <seg>buildtoolbar_popup_obj_cctvmonitor		Permet de contrôler 6 CCTV si un gardien est à proximité.</seg>
       </tuv>
     </tu>
     <tu>
