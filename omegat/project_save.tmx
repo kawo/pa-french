@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_timelapse_cam_zoom                Zoom Camera</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055218Z" creationid="kawo" creationdate="20140616T055218Z">
+        <seg>codex_timelapse_cam_zoom                Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_timelapse_camera					Camera Mode</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T181651Z" creationid="kawo" creationdate="20140419T181651Z">
@@ -4824,8 +4832,8 @@
       <tuv lang="EN-GB">
         <seg>codex_timelapse_interval_value          *X Game Minutes</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T175821Z" creationid="Happy_Killing" creationdate="20140613T175821Z">
-        <seg>codex_timelapse_interval_value          *X Minutes de jeu</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055212Z" creationid="Happy_Killing" creationdate="20140613T175821Z">
+        <seg>codex_timelapse_interval_value          Toutes les *X minutes</seg>
       </tuv>
     </tu>
     <tu>
