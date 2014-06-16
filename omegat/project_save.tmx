@@ -12046,6 +12046,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_intake_mandatory                 Mandatory</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081452Z" creationid="kawo" creationdate="20140616T081452Z">
+        <seg>reform_program_intake_mandatory                 Obligatoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_intake_none                      None</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081350Z" creationid="kawo" creationdate="20140616T081350Z">
+        <seg>reform_program_intake_none                      Rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_intake_voluntary                 Voluntary</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081458Z" creationid="kawo" creationdate="20140616T081458Z">
+        <seg>reform_program_intake_voluntary                 Volontaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_ledby                    - Led by a *P in a *Z</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081105Z" creationid="kawo" creationdate="20140616T080753Z">
@@ -12070,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_prereqs                  Prisoners must have completed:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081339Z" creationid="kawo" creationdate="20140616T081339Z">
+        <seg>reform_program_prereqs                  Les détenus doivent avoir accompli :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_requirements             - Each prisoner requires a *X</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081228Z" creationid="kawo" creationdate="20140616T081228Z">
@@ -12082,6 +12114,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081244Z" creationid="kawo" creationdate="20140616T081244Z">
         <seg>reform_program_requirements_alt         - Chaque détenu a besoin de *X ou de *Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_research_required        Required: *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081347Z" creationid="kawo" creationdate="20140616T081347Z">
+        <seg>reform_program_research_required        Nécessite : *X</seg>
       </tuv>
     </tu>
     <tu>
