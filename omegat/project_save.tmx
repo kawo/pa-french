@@ -7438,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>interfacedeployment_jobs                        Jobs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T204433Z" creationid="kawo" creationdate="20140616T204433Z">
+        <seg>interfacedeployment_jobs                        Jobs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>interfacedeployment_maxseczone                  Max Sec Only</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130211Z" creationid="kawo" creationdate="20140419T130211Z">
@@ -13208,8 +13216,8 @@
       <tuv lang="EN-GB">
         <seg>report_staff_title                      Staff *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T194828Z" creationid="kawo" creationdate="20140419T194828Z">
-        <seg>report_staff_title                      Employé *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T204451Z" creationid="kawo" creationdate="20140419T194828Z">
+        <seg>report_staff_title                      Employés *X</seg>
       </tuv>
     </tu>
     <tu>
