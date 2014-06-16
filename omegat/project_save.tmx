@@ -6744,24 +6744,24 @@
       <tuv lang="EN-GB">
         <seg>interface_action_doormodelockedopen             Door Mode: Locked Open</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184734Z" creationid="Happy_Killing" creationdate="20140611T184734Z">
-        <seg>interface_action_doormodelockedopen             Porte: Ouverte</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044059Z" creationid="Happy_Killing" creationdate="20140611T184734Z">
+        <seg>interface_action_doormodelockedopen             Porte : ouverte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>interface_action_doormodelockedshut             Door Mode: Locked Shut</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184644Z" creationid="Happy_Killing" creationdate="20140611T184644Z">
-        <seg>interface_action_doormodelockedshut             Porte: Fermer</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044054Z" creationid="Happy_Killing" creationdate="20140611T184644Z">
+        <seg>interface_action_doormodelockedshut             Porte : fermée</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>interface_action_doormodenormal                 Door Mode: Normal</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T184502Z" creationid="Happy_Killing" creationdate="20140611T184502Z">
-        <seg>interface_action_doormodenormal                 Porte: Normal</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T044046Z" creationid="Happy_Killing" creationdate="20140611T184502Z">
+        <seg>interface_action_doormodenormal                 Porte : normale</seg>
       </tuv>
     </tu>
     <tu>
