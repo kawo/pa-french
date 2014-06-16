@@ -12070,6 +12070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_requirements             - Each prisoner requires a *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081228Z" creationid="kawo" creationdate="20140616T081228Z">
+        <seg>reform_program_requirements             - Chaque détenu a besoin de *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_requirements_alt         - Each prisoner requires a *X or a *Y</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081244Z" creationid="kawo" creationdate="20140616T081244Z">
+        <seg>reform_program_requirements_alt         - Chaque détenu a besoin de *X ou de *Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_starting                 starting</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062806Z" creationid="Happy_Killing" creationdate="20140613T183629Z">
