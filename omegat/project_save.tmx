@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_language_englishdefault           English (Default)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045036Z" creationid="kawo" creationdate="20140616T045036Z">
+        <seg>codex_language_englishdefault           Anglais (defaut)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_last_modified						Last Modified: *T</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182003Z" creationid="kawo" creationdate="20140419T182003Z">
