@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Any job openings will be filled and prisoners will automatically report to their job locations.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083558Z" creationid="kawo" creationdate="20140616T083558Z">
+        <seg>Les détenus seront automatiquement assignés aux jobs disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Are you so sure in yourself that you can deal out such final judgement?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140420T165056Z" creationid="kawo" creationdate="20140420T165056Z">
