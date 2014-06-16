@@ -14160,8 +14160,8 @@
       <tuv lang="EN-GB">
         <seg>status_effect_high                      High</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T180024Z" creationid="Happy_Killing" creationdate="20140613T180024Z">
-        <seg>status_effect_high                      Elevé</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T080016Z" creationid="Happy_Killing" creationdate="20140613T180024Z">
+        <seg>status_effect_high                      Drogué</seg>
       </tuv>
     </tu>
     <tu>
@@ -14208,8 +14208,8 @@
       <tuv lang="EN-GB">
         <seg>status_effect_title						=[Status Effects]=</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075905Z" creationid="kawo" creationdate="20140419T201343Z">
-        <seg>status_effect_title						=[État]=</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T075925Z" creationid="kawo" creationdate="20140419T201343Z">
+        <seg>status_effect_title						=[États]=</seg>
       </tuv>
     </tu>
     <tu>
