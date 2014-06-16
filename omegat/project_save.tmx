@@ -11888,8 +11888,8 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_reform_success                 Success</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190827Z" creationid="Happy_Killing" creationdate="20140611T190827Z">
-        <seg>rapsheet_reform_success                 Réussite</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074305Z" creationid="Happy_Killing" creationdate="20140611T190827Z">
+        <seg>rapsheet_reform_success                 Réussi</seg>
       </tuv>
     </tu>
     <tu>
