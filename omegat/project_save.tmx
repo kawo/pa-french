@@ -5536,8 +5536,8 @@
       <tuv lang="EN-GB">
         <seg>dialog_none                             None</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T123524Z" creationid="kawo" creationdate="20140419T123524Z">
-        <seg>dialog_none                             Aucun</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063700Z" creationid="kawo" creationdate="20140419T123524Z">
+        <seg>dialog_none                             Aucune</seg>
       </tuv>
     </tu>
     <tu>
