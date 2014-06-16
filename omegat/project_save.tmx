@@ -12262,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>regime_nothing                          Lockup</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061109Z" creationid="kawo" creationdate="20140616T061109Z">
+        <seg>regime_nothing                          Enfermement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>regime_nothing                          Nothing</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T232709Z" creationid="kawo" creationdate="20140419T232709Z">
