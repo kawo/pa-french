@@ -12368,8 +12368,8 @@
       <tuv lang="EN-GB">
         <seg>report_grants_bankloan_max              Maximum Loan *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061950Z" creationid="Happy_Killing" creationdate="20140611T194727Z">
-        <seg>report_grants_bankloan_max              Prêt maximum *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062022Z" creationid="Happy_Killing" creationdate="20140611T194727Z">
+        <seg>report_grants_bankloan_max              Prêt maximum : *X</seg>
       </tuv>
     </tu>
     <tu>
