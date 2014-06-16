@@ -8640,8 +8640,8 @@
       <tuv lang="EN-GB">
         <seg>need_name_drugs                         Drugs</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181752Z" creationid="Happy_Killing" creationdate="20140613T181752Z">
-        <seg>need_name_drugs                         Droges</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053359Z" creationid="Happy_Killing" creationdate="20140613T181752Z">
+        <seg>need_name_drugs                         Drogues</seg>
       </tuv>
     </tu>
     <tu>
