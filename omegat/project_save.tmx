@@ -12040,16 +12040,24 @@
       <tuv lang="EN-GB">
         <seg>reform_program_active                   ACTIVE</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053813Z" creationid="kawo" creationdate="20140616T053813Z">
-        <seg>reform_program_active                   ACTIVE</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081007Z" creationid="kawo" creationdate="20140616T053813Z">
+        <seg>reform_program_active                   EN COURS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>reform_program_ledby                    - Led by a *P in a *Z</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T080753Z" creationid="kawo" creationdate="20140616T080753Z">
-        <seg>reform_program_ledby                    - Mené par a *P in a *Z</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081105Z" creationid="kawo" creationdate="20140616T080753Z">
+        <seg>reform_program_ledby                    - Menée par un *P dans *Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_length                   - Session length *X hours</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081055Z" creationid="kawo" creationdate="20140616T081055Z">
+        <seg>reform_program_length                   - La session dure *X heures</seg>
       </tuv>
     </tu>
     <tu>
