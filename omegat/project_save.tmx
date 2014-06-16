@@ -12824,8 +12824,8 @@
       <tuv lang="EN-GB">
         <seg>research_timetounlock                   Time to unlock : *X hours</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193610Z" creationid="Happy_Killing" creationdate="20140611T193610Z">
-        <seg>research_timetounlock                   Débloque dans : *X hours</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045629Z" creationid="Happy_Killing" creationdate="20140611T193610Z">
+        <seg>research_timetounlock                   Débloqué dans : *X hours</seg>
       </tuv>
     </tu>
     <tu>
