@@ -9598,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>object_sale_price                       Sale price *X</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053923Z" creationid="kawo" creationdate="20140616T053923Z">
+        <seg>object_sale_price                      Prix de vente *X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>object_schooldesk                        School Desk</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T225808Z" creationid="kawo" creationdate="20140419T225808Z">
@@ -11938,6 +11946,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053751Z" creationid="Happy_Killing" creationdate="20140613T183512Z">
         <seg>reform_locked                           FERMÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_placespersession                 *X places / *Y sessions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053803Z" creationid="kawo" creationdate="20140616T053803Z">
+        <seg>reform_placespersession                 *X places / *Y sessions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_active                   ACTIVE</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053813Z" creationid="kawo" creationdate="20140616T053813Z">
+        <seg>reform_program_active                   ACTIVE</seg>
       </tuv>
     </tu>
     <tu>
