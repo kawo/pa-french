@@ -4046,10 +4046,42 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_language_download                 Download</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045049Z" creationid="kawo" creationdate="20140616T045049Z">
+        <seg>codex_language_download                 Télécharger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_language_englishdefault           English (Default)</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045036Z" creationid="kawo" creationdate="20140616T045036Z">
         <seg>codex_language_englishdefault           Anglais (defaut)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_language_failed_download          Failed To Download Translation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045114Z" creationid="kawo" creationdate="20140616T045114Z">
+        <seg>codex_language_failed_download          La traduction n'a pas pu être téléchargée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_language_failed_download_msg      Your selected translation has failed to download.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045133Z" creationid="kawo" creationdate="20140616T045133Z">
+        <seg>codex_language_failed_download_msg      La traduction sélectionnée n'a pas pu être téléchargée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>codex_language_searching_workshop       Searching Steam Workshop</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045146Z" creationid="kawo" creationdate="20140616T045146Z">
+        <seg>codex_language_searching_workshop       Recherche dans le Workshop Steam</seg>
       </tuv>
     </tu>
     <tu>
