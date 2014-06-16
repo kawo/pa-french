@@ -320,8 +320,8 @@
       <tuv lang="EN-GB">
         <seg>Also unlocks the Security Room which serves absolutely no purpose right now.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T185719Z" creationid="kawo" creationdate="20140419T185719Z">
-        <seg>Débloque aussi la Salle de sécurité.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060250Z" creationid="kawo" creationdate="20140419T185719Z">
+        <seg>Débloque aussi la Salle de surveillance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10256,8 +10256,8 @@
       <tuv lang="EN-GB">
         <seg>objective_grant_advancedsecurity_office             Build a Security Office</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140420T192543Z" creationid="kawo" creationdate="20140419T210829Z">
-        <seg>objective_grant_advancedsecurity_office             Construire une salle de sécurité</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060300Z" creationid="kawo" creationdate="20140419T210829Z">
+        <seg>objective_grant_advancedsecurity_office             Construire une salle de surveillance</seg>
       </tuv>
     </tu>
     <tu>
@@ -13448,8 +13448,8 @@
       <tuv lang="EN-GB">
         <seg>room_security                            Security</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230620Z" creationid="kawo" creationdate="20140419T230620Z">
-        <seg>room_security                            Salle de sécurité</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060310Z" creationid="kawo" creationdate="20140419T230620Z">
+        <seg>room_security                            Salle de surveillance</seg>
       </tuv>
     </tu>
     <tu>
