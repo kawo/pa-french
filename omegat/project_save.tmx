@@ -6408,8 +6408,8 @@
       <tuv lang="EN-GB">
         <seg>experiencefactor_fractionalintoxicated  *X% of stay intoxicated (drugs/alchohol/withdrawal)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T212852Z" creationid="Happy_Killing" creationdate="20140611T212852Z">
-        <seg>experiencefactor_fractionalintoxicated  *X% des détenus sont resté intoxiqués (drugs/alchohol/withdrawal)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T052738Z" creationid="Happy_Killing" creationdate="20140611T212852Z">
+        <seg>experiencefactor_fractionalintoxicated  *X% des détenus sont resté intoxiqués (drogues/alcool/dépression)</seg>
       </tuv>
     </tu>
     <tu>
