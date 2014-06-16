@@ -12392,16 +12392,16 @@
       <tuv lang="EN-GB">
         <seg>report_grants_completed_tt              (COMPLETED)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T201532Z" creationid="Happy_Killing" creationdate="20140611T201532Z">
-        <seg>report_grants_completed_tt              (COMPLÉTÉ)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061844Z" creationid="Happy_Killing" creationdate="20140611T201532Z">
+        <seg>report_grants_completed_tt              (ACHEVÉ)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>report_grants_completionbonus           *X Completion bonus</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T202041Z" creationid="Happy_Killing" creationdate="20140611T202041Z">
-        <seg>report_grants_completionbonus           *X Bonus si complété</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061824Z" creationid="Happy_Killing" creationdate="20140611T202041Z">
+        <seg>report_grants_completionbonus           *X en bonus si achevé</seg>
       </tuv>
     </tu>
     <tu>
