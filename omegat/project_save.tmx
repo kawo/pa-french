@@ -12062,6 +12062,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_intake_referralalcoholism        Referral: Alcoholism</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081644Z" creationid="kawo" creationdate="20140616T081644Z">
+        <seg>reform_program_intake_referralalcoholism        Recommandé pour : alcoolisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_intake_referraldrugaddiction     Referral: Drug Addiction</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081633Z" creationid="kawo" creationdate="20140616T081633Z">
+        <seg>reform_program_intake_referraldrugaddiction     Recommandé pour : toxicomane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_intake_referralviolence          Referral: Violence</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081602Z" creationid="kawo" creationdate="20140616T081602Z">
+        <seg>reform_program_intake_referralviolence          Recommandé pour : violence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_program_intake_voluntary                 Voluntary</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T081458Z" creationid="kawo" creationdate="20140616T081458Z">
