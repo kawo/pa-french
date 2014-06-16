@@ -11430,6 +11430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>prisoner_passchance                     Pass Chance: *X%</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T054141Z" creationid="kawo" creationdate="20140616T054141Z">
+        <seg>prisoner_passchance                     Chance de réussite : *X%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>prisoner_understanding                  Understanding</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233200Z" creationid="kawo" creationdate="20140419T233200Z">
