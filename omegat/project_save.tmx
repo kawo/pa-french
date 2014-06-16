@@ -11744,8 +11744,8 @@
       <tuv lang="EN-GB">
         <seg>rapsheet_condition                      Condition</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T190629Z" creationid="Happy_Killing" creationdate="20140611T190629Z">
-        <seg>rapsheet_condition                      Situation</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T073047Z" creationid="Happy_Killing" creationdate="20140611T190629Z">
+        <seg>rapsheet_condition                      État</seg>
       </tuv>
     </tu>
     <tu>
