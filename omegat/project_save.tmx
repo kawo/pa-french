@@ -7504,8 +7504,8 @@
       <tuv lang="EN-GB">
         <seg>interfacedeployment_unlockedzone                Unlocked</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T130234Z" creationid="kawo" creationdate="20140419T130234Z">
-        <seg>interfacedeployment_unlockedzone                Débloqué</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T204533Z" creationid="kawo" creationdate="20140419T130234Z">
+        <seg>interfacedeployment_unlockedzone                Zone libre</seg>
       </tuv>
     </tu>
     <tu>
@@ -8976,8 +8976,8 @@
       <tuv lang="EN-GB">
         <seg>nameplate_researching                   Researching</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T202052Z" creationid="kawo" creationdate="20140419T202052Z">
-        <seg>nameplate_researching                   Fouille</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T204905Z" creationid="kawo" creationdate="20140419T202052Z">
+        <seg>nameplate_researching                   Recherche</seg>
       </tuv>
     </tu>
     <tu>
