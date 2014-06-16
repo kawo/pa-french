@@ -6814,6 +6814,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finance_cost_bankloan                   Bank Loan</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085128Z" creationid="kawo" creationdate="20140616T085128Z">
+        <seg>finance_cost_bankloan                   Prêt bancaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_bankloan_repayment         Bank Loan Repayment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085144Z" creationid="kawo" creationdate="20140616T085144Z">
+        <seg>finance_cost_bankloan_repayment         Remboursement du prêt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_cashflow                   Cashflow</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085133Z" creationid="kawo" creationdate="20140616T085109Z">
+        <seg>finance_cost_cashflow                   Solde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_equipbodyarmour            Equipment: Body Armour</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085051Z" creationid="kawo" creationdate="20140616T085051Z">
+        <seg>finance_cost_equipbodyarmour            Équipement : Gillet par-balles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finance_cost_equiptazer                 Equipment: Tazer</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084959Z" creationid="kawo" creationdate="20140616T084959Z">
@@ -6822,10 +6854,50 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finance_cost_exports                    Exports</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085055Z" creationid="kawo" creationdate="20140616T085055Z">
+        <seg>finance_cost_exports                    Exports</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_foundations                Building Foundations</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085102Z" creationid="kawo" creationdate="20140616T085102Z">
+        <seg>finance_cost_foundations                Fondations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_grantadvance               Grant Advance</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085237Z" creationid="kawo" creationdate="20140616T085237Z">
+        <seg>finance_cost_grantadvance               Prêt avancé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finance_cost_prisonsale                 Sale of previous prison</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084920Z" creationid="kawo" creationdate="20140616T084920Z">
         <seg>finance_cost_prisonsale                 Vente de la prison précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_sharepurchase              Share Purchase</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085219Z" creationid="kawo" creationdate="20140616T085219Z">
+        <seg>finance_cost_sharepurchase              Acheter part</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_sharesale                  Share Sale</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085224Z" creationid="kawo" creationdate="20140616T085159Z">
+        <seg>finance_cost_sharesale                  Vendre part</seg>
       </tuv>
     </tu>
     <tu>
