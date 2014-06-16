@@ -1192,8 +1192,8 @@
       <tuv lang="EN-GB">
         <seg>Psychology ???)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181824Z" creationid="Happy_Killing" creationdate="20140613T181824Z">
-        <seg>Psychologie ???)</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053438Z" creationid="Happy_Killing" creationdate="20140613T181824Z">
+        <seg>Mental ???)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,6 +8778,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053015Z" creationid="Happy_Killing" creationdate="20140611T213222Z">
         <seg>needs_key_satisfied                     Satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>needs_locked                            (???</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053410Z" creationid="kawo" creationdate="20140616T053410Z">
+        <seg>needs_locked                            (???</seg>
       </tuv>
     </tu>
     <tu>
