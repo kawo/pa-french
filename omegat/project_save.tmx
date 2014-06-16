@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Prisoners enjoy this time best of all, and will socialise and take care of their needs as best they can.\n\nLong periods of free time can reduce the stress and tension within your prison, but many believe it hardly counts as punishment.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084339Z" creationid="kawo" creationdate="20140616T084339Z">
+        <seg>C'est le moment préféré des détenus. Ils vont socialiser et s'occuper de leurs besoins du mieux qu'ils peuvent.\n\nLes longues phases de temps libre peuvent réduire le stress et les tensions mais l'opinion publique pense que cela va à l'encontre du but d'une prison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Prisoners without a job and not currently assigned to a Reform program are free to roam around the prison as if under 'Freetime'.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083816Z" creationid="kawo" creationdate="20140616T083816Z">
