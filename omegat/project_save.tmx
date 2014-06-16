@@ -8568,8 +8568,8 @@
       <tuv lang="EN-GB">
         <seg>misconduct_reporttype_seriousinjury         Serious Injury</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183654Z" creationid="kawo" creationdate="20140419T183654Z">
-        <seg>misconduct_reporttype_seriousinjury         A infligé une blessure sérieuse</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T061245Z" creationid="kawo" creationdate="20140419T183654Z">
+        <seg>misconduct_reporttype_seriousinjury         Blessure grave</seg>
       </tuv>
     </tu>
     <tu>
