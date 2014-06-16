@@ -12766,6 +12766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>research_protectionbonus                Protection: *X%</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T045727Z" creationid="kawo" creationdate="20140616T045727Z">
+        <seg>research_protectionbonus                Protection : *X%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>research_required                       You need a *X to prepare this report.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T183820Z" creationid="kawo" creationdate="20140419T183820Z">
