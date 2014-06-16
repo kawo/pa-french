@@ -6032,8 +6032,8 @@
       <tuv lang="EN-GB">
         <seg>equipment_gun                            Gun</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230819Z" creationid="kawo" creationdate="20140419T230819Z">
-        <seg>equipment_gun                            Pistoler</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060645Z" creationid="kawo" creationdate="20140419T230819Z">
+        <seg>equipment_gun                            Pistolet</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,8 +6088,8 @@
       <tuv lang="EN-GB">
         <seg>equipment_mobilephone                    Mobile Phone</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230858Z" creationid="kawo" creationdate="20140419T230858Z">
-        <seg>equipment_mobilephone                    Téléphone mobile</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060730Z" creationid="kawo" creationdate="20140419T230858Z">
+        <seg>equipment_mobilephone                    Portable</seg>
       </tuv>
     </tu>
     <tu>
