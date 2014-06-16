@@ -8400,8 +8400,8 @@
       <tuv lang="EN-GB">
         <seg>material_stone                           Stone</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T230102Z" creationid="kawo" creationdate="20140419T230102Z">
-        <seg>material_stone                           Pierre Opus</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060043Z" creationid="kawo" creationdate="20140419T230102Z">
+        <seg>material_stone                           Opus</seg>
       </tuv>
     </tu>
     <tu>
