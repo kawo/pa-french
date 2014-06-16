@@ -12062,6 +12062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>reform_program_stop                     STOP</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T062535Z" creationid="kawo" creationdate="20140616T062535Z">
+        <seg>reform_program_stop                     ARRETER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>reform_queued                           *X in queue</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T183238Z" creationid="Happy_Killing" creationdate="20140613T183238Z">
