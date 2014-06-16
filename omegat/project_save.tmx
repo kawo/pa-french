@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Everyone goes to sleep.\n\nNb except those who are digging escape tunnels.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082525Z" creationid="kawo" creationdate="20140616T082525Z">
+        <seg>Tout le monde va se coucher.\n\nNb : sauf ceux qui creusent un tunnel pour s'échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Existing data will be overwrriten.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T134936Z" creationid="kawo" creationdate="20140419T134846Z">
@@ -12490,6 +12498,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T232745Z" creationid="kawo" creationdate="20140419T232745Z">
         <seg>regime_yard                             Cour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>regimetooltip_eat                       Prisoners make their way to the nearest accessable canteen and sit down for lunch.\n\nPrisoners are permitted to use any facilities within the Canteen, but are not allowed to leave until this period ends.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082726Z" creationid="kawo" creationdate="20140616T082726Z">
+        <seg>regimetooltip_eat                       Les détenus se rendent vers le réfectoire le plus proche pour manger.\n\nIls peuvent utiliser n'importe quel équipement dans le réfectoire mais n'ont pas le droit de partir avant la fin du temps réglementaire.</seg>
       </tuv>
     </tu>
     <tu>
