@@ -6696,8 +6696,8 @@
       <tuv lang="EN-GB">
         <seg>finances_category_reformprogs           Reform Programs</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T205817Z" creationid="Happy_Killing" creationdate="20140611T205817Z">
-        <seg>finances_category_reformprogs           Réforme</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T063202Z" creationid="Happy_Killing" creationdate="20140611T205817Z">
+        <seg>finances_category_reformprogs           Formations</seg>
       </tuv>
     </tu>
     <tu>
