@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>codex_timelapse_quality_low             Low</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055543Z" creationid="kawo" creationdate="20140616T055543Z">
+        <seg>codex_timelapse_quality_low             Basse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>codex_timelapse_quality_med             Medium</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055418Z" creationid="kawo" creationdate="20140616T055418Z">
@@ -11216,8 +11224,8 @@
       <tuv lang="EN-GB">
         <seg>objective_intake_categories             Categories:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053452Z" creationid="Happy_Killing" creationdate="20140613T181859Z">
-        <seg>objective_intake_categories             Catégories :</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T055548Z" creationid="Happy_Killing" creationdate="20140613T181859Z">
+        <seg>objective_intake_categories             Catégories : </seg>
       </tuv>
     </tu>
     <tu>
