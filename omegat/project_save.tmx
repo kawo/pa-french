@@ -8704,8 +8704,8 @@
       <tuv lang="EN-GB">
         <seg>need_name_privacy                       Privacy</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140613T181719Z" creationid="Happy_Killing" creationdate="20140613T181719Z">
-        <seg>need_name_privacy                       Vie Privé</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053350Z" creationid="Happy_Killing" creationdate="20140613T181719Z">
+        <seg>need_name_privacy                       Vie privé</seg>
       </tuv>
     </tu>
     <tu>
