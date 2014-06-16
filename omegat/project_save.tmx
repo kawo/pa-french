@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>#                                       Eg "Bob's Mother"</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084557Z" creationid="kawo" creationdate="20140616T084557Z">
+        <seg>#                                       Eg "Bob's Mother"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg># =============================================================================</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T124519Z" creationid="kawo" creationdate="20140419T124519Z">
@@ -5946,6 +5954,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T233605Z" creationid="kawo" creationdate="20140419T233558Z">
         <seg>dog_needskennel                         Les chiens ont besoin d'un chenil pour dormir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>drugs_cocaine                           Cocaine</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084547Z" creationid="kawo" creationdate="20140616T084547Z">
+        <seg>drugs_cocaine                           Cocaïne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>drugs_heroin                            Heroin</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084529Z" creationid="kawo" creationdate="20140616T084529Z">
+        <seg>drugs_heroin                            Héroïne</seg>
       </tuv>
     </tu>
     <tu>
@@ -15186,6 +15210,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140429T133502Z" creationid="kawo" creationdate="20140429T133502Z">
         <seg>victory_warning_toomanyescapes          Vous serez licencié en cas de nouvelles évasions aujourd'hui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>visitor_relationship                    *X's *Y</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084630Z" creationid="kawo" creationdate="20140616T084630Z">
+        <seg>visitor_relationship                    *Y de *X</seg>
       </tuv>
     </tu>
     <tu>
