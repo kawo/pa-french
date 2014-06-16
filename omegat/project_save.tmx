@@ -6296,8 +6296,8 @@
       <tuv lang="EN-GB">
         <seg>experience_lockeddown                   Lockdown</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201622Z" creationid="kawo" creationdate="20140419T201622Z">
-        <seg>experience_lockeddown                   Verrouillage</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072421Z" creationid="kawo" creationdate="20140419T201622Z">
+        <seg>experience_lockeddown                   Enfermé</seg>
       </tuv>
     </tu>
     <tu>
@@ -6312,32 +6312,32 @@
       <tuv lang="EN-GB">
         <seg>experience_moodbad                      Bad</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201735Z" creationid="kawo" creationdate="20140419T201735Z">
-        <seg>experience_moodbad                      Mauvais</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072449Z" creationid="kawo" creationdate="20140419T201735Z">
+        <seg>experience_moodbad                      Mauvaise</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>experience_moodgood                     Good</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201741Z" creationid="kawo" creationdate="20140419T201741Z">
-        <seg>experience_moodgood                     Bon</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072429Z" creationid="kawo" creationdate="20140419T201741Z">
+        <seg>experience_moodgood                     Bonne</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>experience_moodnormal                   Normal</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201737Z" creationid="kawo" creationdate="20140419T201737Z">
-        <seg>experience_moodnormal                   Normal</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072427Z" creationid="kawo" creationdate="20140419T201737Z">
+        <seg>experience_moodnormal                   Normale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>experience_nocondition                  None</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201744Z" creationid="kawo" creationdate="20140419T201744Z">
-        <seg>experience_nocondition                  Aucun</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072446Z" creationid="kawo" creationdate="20140419T201744Z">
+        <seg>experience_nocondition                  Aucune</seg>
       </tuv>
     </tu>
     <tu>
