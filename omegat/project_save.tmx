@@ -8160,8 +8160,8 @@
       <tuv lang="EN-GB">
         <seg>legend_key                              Key:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T052847Z" creationid="Happy_Killing" creationdate="20140611T213058Z">
-        <seg>legend_key                              Clef :</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T060943Z" creationid="Happy_Killing" creationdate="20140611T213058Z">
+        <seg>legend_key                              Légende :</seg>
       </tuv>
     </tu>
     <tu>
