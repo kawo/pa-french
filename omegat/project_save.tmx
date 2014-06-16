@@ -12768,8 +12768,8 @@
       <tuv lang="EN-GB">
         <seg>research_cost                           Cost: *X</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193556Z" creationid="Happy_Killing" creationdate="20140611T193556Z">
-        <seg>research_cost                           Coûte: *X</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074731Z" creationid="Happy_Killing" creationdate="20140611T193556Z">
+        <seg>research_cost                           Coût : *X</seg>
       </tuv>
     </tu>
     <tu>
