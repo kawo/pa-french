@@ -6248,8 +6248,8 @@
       <tuv lang="EN-GB">
         <seg>experience_class                        Class</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201708Z" creationid="kawo" creationdate="20140419T201708Z">
-        <seg>experience_class                        Classe</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072623Z" creationid="kawo" creationdate="20140419T201708Z">
+        <seg>experience_class                        Formation</seg>
       </tuv>
     </tu>
     <tu>
@@ -6296,8 +6296,8 @@
       <tuv lang="EN-GB">
         <seg>experience_lockeddown                   Lockdown</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072421Z" creationid="kawo" creationdate="20140419T201622Z">
-        <seg>experience_lockeddown                   Enfermé</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072643Z" creationid="kawo" creationdate="20140419T201622Z">
+        <seg>experience_lockeddown                   Enfermement</seg>
       </tuv>
     </tu>
     <tu>
@@ -6352,8 +6352,8 @@
       <tuv lang="EN-GB">
         <seg>experience_sleep                        Sleep</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201701Z" creationid="kawo" creationdate="20140419T201701Z">
-        <seg>experience_sleep                        Dormir</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072636Z" creationid="kawo" creationdate="20140419T201701Z">
+        <seg>experience_sleep                        Repos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6384,8 +6384,8 @@
       <tuv lang="EN-GB">
         <seg>experience_work                         Work</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201706Z" creationid="kawo" creationdate="20140419T201706Z">
-        <seg>experience_work                         Travailler</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T072631Z" creationid="kawo" creationdate="20140419T201706Z">
+        <seg>experience_work                         Travail</seg>
       </tuv>
     </tu>
     <tu>
