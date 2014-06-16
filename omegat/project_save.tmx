@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Prisoners without a job and not currently assigned to a Reform program are free to roam around the prison as if under 'Freetime'.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T083816Z" creationid="kawo" creationdate="20140616T083816Z">
+        <seg>Les détenus oisifs et qui ne suivent pas formation sont libres de circuler à travers la prison comme pendant un temps libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Probably big enough for someone to crawl to freedom through five hundred yards of shit smelling foulness.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140420T184527Z" creationid="kawo" creationdate="20140419T160350Z">
