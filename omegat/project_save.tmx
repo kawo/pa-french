@@ -8464,8 +8464,8 @@
       <tuv lang="EN-GB">
         <seg>misconduct_report_recovingalcoholic         Recovering alcoholic</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T193506Z" creationid="Happy_Killing" creationdate="20140611T193506Z">
-        <seg>misconduct_report_recovingalcoholic         Cure de sevrage</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T074703Z" creationid="Happy_Killing" creationdate="20140611T193506Z">
+        <seg>misconduct_report_recovingalcoholic         Ancien alcoolique</seg>
       </tuv>
     </tu>
     <tu>
