@@ -6344,8 +6344,8 @@
       <tuv lang="EN-GB">
         <seg>experiencefactor_addictions             *X active addictions</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T213050Z" creationid="Happy_Killing" creationdate="20140611T213050Z">
-        <seg>experiencefactor_addictions             *X toxicomane</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T052836Z" creationid="Happy_Killing" creationdate="20140611T213050Z">
+        <seg>experiencefactor_addictions             *X intoxiqués</seg>
       </tuv>
     </tu>
     <tu>
