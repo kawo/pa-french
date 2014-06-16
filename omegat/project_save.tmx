@@ -12518,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>regimetooltip_shower                    Prisoners strip off their clothes and get into the showers.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082750Z" creationid="kawo" creationdate="20140616T082750Z">
+        <seg>regimetooltip_shower                    Les détenus se déshabillent et prennent une douche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>regimetooltip_sleep                     Prisoners are locked in their cells, and the lights are turned out.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082442Z" creationid="kawo" creationdate="20140616T082442Z">
