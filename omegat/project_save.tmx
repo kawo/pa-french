@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg># Expense popups</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085446Z" creationid="kawo" creationdate="20140616T085446Z">
+        <seg># Expense popups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg># Graphics Change Confirmation</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T182514Z" creationid="kawo" creationdate="20140419T182514Z">
@@ -12402,6 +12410,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T082051Z" creationid="kawo" creationdate="20140616T082051Z">
         <seg>reform_program_difficulty_easy          - Facile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>reform_program_difficulty_expert        - Expert</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085441Z" creationid="kawo" creationdate="20140616T085441Z">
+        <seg>reform_program_difficulty_expert        - Expert</seg>
       </tuv>
     </tu>
     <tu>
