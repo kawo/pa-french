@@ -6878,6 +6878,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finance_cost_grantcompletion            Grant Completion Payment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085355Z" creationid="kawo" creationdate="20140616T085355Z">
+        <seg>finance_cost_grantcompletion            Remboursement subvention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_landpurchase               Land Purchase</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085432Z" creationid="kawo" creationdate="20140616T085432Z">
+        <seg>finance_cost_landpurchase               Acheter parcelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finance_cost_prisonsale                 Sale of previous prison</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140616T084920Z" creationid="kawo" creationdate="20140616T084920Z">
@@ -6886,18 +6902,42 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>finance_cost_reformprogram              Reform Program Session</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085412Z" creationid="kawo" creationdate="20140616T085412Z">
+        <seg>finance_cost_reformprogram              Sessions de formations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_repair                     Repair</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085416Z" creationid="kawo" creationdate="20140616T085416Z">
+        <seg>finance_cost_repair                     Réparations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>finance_cost_sellobject                 Sell Object</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085424Z" creationid="kawo" creationdate="20140616T085424Z">
+        <seg>finance_cost_sellobject                 Vendre objet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>finance_cost_sharepurchase              Share Purchase</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085219Z" creationid="kawo" creationdate="20140616T085219Z">
-        <seg>finance_cost_sharepurchase              Acheter part</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085342Z" creationid="kawo" creationdate="20140616T085219Z">
+        <seg>finance_cost_sharepurchase              Parts achetés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>finance_cost_sharesale                  Share Sale</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085224Z" creationid="kawo" creationdate="20140616T085159Z">
-        <seg>finance_cost_sharesale                  Vendre part</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T085334Z" creationid="kawo" creationdate="20140616T085159Z">
+        <seg>finance_cost_sharesale                  Parts vendus</seg>
       </tuv>
     </tu>
     <tu>
