@@ -14022,6 +14022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>status_effect_surrendered               Surrendered</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T053238Z" creationid="kawo" creationdate="20140616T053238Z">
+        <seg>status_effect_surrendered               Docile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>status_effect_tazed                     Tazed</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="kawo" changedate="20140419T201604Z" creationid="kawo" creationdate="20140419T201604Z">
