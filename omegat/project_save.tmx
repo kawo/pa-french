@@ -6816,8 +6816,8 @@
       <tuv lang="EN-GB">
         <seg>interface_action_searchcellblock                Search Cell Block</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Happy_Killing" changedate="20140611T183715Z" creationid="Happy_Killing" creationdate="20140611T183715Z">
-        <seg>interface_action_searchcellblock                Fouiller cellules bloc</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T043931Z" creationid="Happy_Killing" creationdate="20140611T183715Z">
+        <seg>interface_action_searchcellblock                Fouiller bloc</seg>
       </tuv>
     </tu>
     <tu>
