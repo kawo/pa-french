@@ -3728,8 +3728,8 @@
       <tuv lang="EN-GB">
         <seg>buildtoolbar_tooltip_reports			Open up the reports window to see information on your prisoners, staff, income, grants, and more.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="kawo" changedate="20140419T140941Z" creationid="kawo" creationdate="20140419T140941Z">
-        <seg>buildtoolbar_tooltip_reports			Affiche la fenêtre des rapports sur vos détenus, personnels, revenus, prêts et plus.</seg>
+      <tuv lang="FR-FR" changeid="kawo" changedate="20140616T064705Z" creationid="kawo" creationdate="20140419T140941Z">
+        <seg>buildtoolbar_tooltip_reports			Affiche la fenêtre des rapports sur vos détenus, personnel, revenus, prêts et plus.</seg>
       </tuv>
     </tu>
     <tu>
